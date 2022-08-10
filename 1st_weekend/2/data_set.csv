@@ -1,0 +1,1033 @@
+<<<<<<< HEAD
+Date,ID,Gender,Age,Shift,,Injury Location,Incident Type,Days Lost,Incident Cost
+2020-01-01,438312,Male,25,Night,TRUE,Trunk,Burn,0,"$5,000 "
+2020-01-03,438333,Female,18,Day,TRUE,Abdomen,Cut,0,"$4,994 "
+2020-01-03,438334,Male,35,Day,TRUE,Back,Lifting,5,"$4,969 "
+2020-01-04,438345,Female,50,Day,TRUE,Legs,Lifting,2.5,4947
+2020-01-07,438376,Male,25,Day,TRUE,Abdomen,Lifting,3,"$4,940 "
+2020-01-11,438417,Male,25,Day,TRUE,Neck,Fall,0,"$4,933 "
+2020-01-11,438418,Female,50,Night,TRUE,Back,Lifting,2,4908
+2020-01-12,438429,Male,35,Night,TRUE,Head,Lifting,0,"$4,905 "
+2020-01-15,4384510,Male,19,Night,TRUE,Abdomen,Falling object,5,"$4,879 "
+2020-01-16,4384611,Male,50,Night,TRUE,Neck,Crush & Pinch,3.5,"$4,872 "
+2020-01-18,4384812,Female,35,Night,TRUE,Abdomen,Falling object,0,"$4,871 "
+2020-01-23,4385313,Male,35,Night,TRUE,Multiple,Slip/trip,1.5,"$4,871 "
+2020-01-26,4385614,Male,35,Day,TRUE,Back,Vehicle,0,"$4,836 "
+2020-01-27,4385715,Male,50,Day,TRUE,Eye,Cut,0,"$4,834 "
+2020-01-27,4385716,Male,35,Night,TRUE,N/A,Crush & Pinch,1.5,"$4,823 "
+2020-01-27,4385717,Male,50,Day,TRUE,N/A,Equipment,0,"$4,800 "
+2020-01-30,4386018,Male,35,Day,TRUE,Arms,Slip/trip,0,"$4,791 "
+2020-01-30,4386019,Male,22,Night,TRUE,Abdomen,Burn,1.5,"$4,781 "
+2020-02-01,4386220,Male,50,Night,TRUE,Legs,Crush & Pinch,4,"$4,771 "
+2020-02-03,4386421,Male,36,Night,TRUE,Hands,Fall,4,"$4,743 "
+2020-02-04,4386522,Male,21,Night,TRUE,Legs,Lifting,0,"$4,741 "
+2020-02-09,4387023,Male,25,Night,TRUE,Back,Falling object,1.5,"$4,731 "
+2020-02-09,4387024,Male,36,Night,TRUE,N/A,Crush & Pinch,2.5,"$4,718 "
+2020-02-10,4387125,Male,36,Day,TRUE,Feet,Lifting,0,"$4,698 "
+2020-02-10,4387126,Male,36,Night,TRUE,Head,Vehicle,0,"$4,685 "
+2020-02-11,4387227,Male,25,Night,TRUE,Multiple,Burn,0,"$4,664 "
+2020-02-12,4387328,Male,50,Night,TRUE,Legs,Burn,0,4639
+2020-02-13,4387429,Male,25,Night,TRUE,Hands,Falling object,1.5,"$4,618 "
+2020-02-13,4387430,Male,50,Night,TRUE,N/A,Slip/trip,0,"$4,587 "
+2020-02-14,4387531,Male,25,Night,TRUE,N/A,Lifting,0,"$4,570 "
+2020-02-16,4387732,Male,50,Day,TRUE,Head,Falling object,2.5,4563
+2020-02-17,4387833,Female,36,Night,TRUE,Multiple,Fall,0,"$4,530 "
+2020-02-19,4388034,Female,36,Day,TRUE,N/A,Slip/trip,0,"$4,462 "
+2020-02-20,4388135,Male,25,Night,TRUE,Head,Burn,0,"$4,455 "
+2020-02-22,4388336,Male,25,Night,TRUE,Head,Equipment,0,"$4,444 "
+2020-02-27,4388837,Male,50,Night,TRUE,Feet,Burn,1.5,"$4,414 "
+2020-02-28,4388938,Male,50,Night,TRUE,Trunk,Equipment,4.5,"$4,411 "
+2020-03-01,4389139,Male,20,Night,TRUE,Abdomen,Fall,4.5,"$4,399 "
+2020-03-03,4389340,Male,50,Day,TRUE,Feet,Burn,5,"$4,373 "
+2020-03-03,4389341,Male,36,Night,TRUE,Trunk,Fall,0,"$4,366 "
+2020-03-06,4389642,Male,19,Day,TRUE,Legs,Fall,3,"$4,303 "
+2020-03-06,4389643,Male,25,Night,TRUE,Back,Slip/trip,0,"$4,292 "
+2020-03-07,4389744,Male,22,Night,TRUE,Abdomen,Crush & Pinch,0,"$4,288 "
+2020-03-11,4390145,Male,36,Day,TRUE,N/A,Equipment,5,"$4,281 "
+2020-03-12,4390246,Female,24,Day,TRUE,Legs,Burn,0,"$4,260 "
+2020-03-17,4390747,Male,25,Day,TRUE,Head,Vehicle,0,"$4,259 "
+2020-03-20,4391048,Female,36,Day,TRUE,Trunk,Fall,0,"$4,247 "
+2020-03-21,4391149,Male,36,Night,TRUE,Back,Slip/trip,0,"$4,246 "
+2020-03-23,4391350,Male,36,Night,TRUE,Abdomen,Crush & Pinch,0,"$4,229 "
+2020-04-03,4392451,Male,18,Night,TRUE,Feet,Cut,0,"$4,213 "
+2020-04-04,4392552,Male,25,Day,TRUE,Abdomen,Equipment,0,"$4,176 "
+2020-04-04,4392553,Male,36,Day,TRUE,Hands,Vehicle,2,"$4,160 "
+2020-04-04,4392554,Male,25,Night,TRUE,Eye,Slip/trip,0,4150
+2020-04-06,4392755,Male,21,Night,TRUE,Arms,Fall,0,4149
+2020-04-07,4392856,Male,25,Night,TRUE,N/A,Slip/trip,0.5,4145
+2020-04-12,4393357,Male,25,Night,TRUE,Eye,Equipment,0,4130
+2020-04-13,4393458,Male,22,Day,TRUE,N/A,Vehicle,0,"$4,069 "
+2020-04-13,4393459,Female,50,Night,TRUE,Head,Lifting,0,"$4,021 "
+2020-04-14,4393560,Male,50,Night,TRUE,Head,Falling object,0,"$4,016 "
+2020-04-14,4393561,Male,50,Night,TRUE,Neck,Lifting,4,"$3,969 "
+2020-04-15,4393662,Male,36,Night,TRUE,Hands,Crush & Pinch,1,"$3,959 "
+2020-04-16,4393763,Male,50,Night,TRUE,Back,Lifting,1,"$3,954 "
+2020-04-17,4393864,Male,25,Night,TRUE,Arms,Vehicle,0,"$3,871 "
+2020-04-18,4393965,Male,25,Night,TRUE,Head,Cut,0,"$3,851 "
+2020-04-21,4394266,Male,23,Night,TRUE,Multiple,Burn,0,"$3,849 "
+2020-04-21,4394267,Female,22,Night,TRUE,Feet,Burn,3,"$3,846 "
+2020-04-22,4394368,Male,37,Day,TRUE,Abdomen,Crush & Pinch,0,"$3,846 "
+2020-04-22,4394369,Male,24,Night,TRUE,Trunk,Slip/trip,3.5,3824
+2020-04-24,4394570,Male,18,Day,TRUE,Eye,Burn,2.5,"$3,817 "
+2020-04-25,4394671,Female,50,Day,TRUE,Head,Equipment,4.5,"$3,784 "
+2020-04-27,4394872,Female,24,Day,TRUE,Back,Fall,2.5,"$3,734 "
+2020-05-02,4395373,Male,25,Day,TRUE,N/A,Equipment,3.5,"$3,716 "
+2020-05-04,4395574,Male,25,Day,TRUE,Head,Lifting,0,"$3,713 "
+2020-05-05,4395675,Male,50,Night,TRUE,Arms,Falling object,5,"$3,692 "
+2020-05-07,4395876,Male,23,Night,TRUE,Head,Vehicle,4,"$3,680 "
+2020-05-08,4395977,Male,22,Night,TRUE,Neck,Crush & Pinch,1,"$3,657 "
+2020-05-08,4395978,Male,50,Night,TRUE,Eye,Falling object,4.5,"$3,588 "
+2020-05-09,4396079,Male,37,Night,TRUE,Multiple,Equipment,1,3582
+2020-05-10,4396180,Male,37,Day,TRUE,Hands,Slip/trip,2,"$3,549 "
+2020-05-10,4396181,Male,37,Night,TRUE,Feet,Equipment,4,3498
+2020-05-11,4396282,Male,50,Night,TRUE,Hands,Slip/trip,2.5,"$3,488 "
+2020-05-13,4396483,Male,37,Night,TRUE,Legs,Cut,0,"$3,487 "
+2020-05-13,4396484,Male,50,Night,TRUE,Abdomen,Crush & Pinch,3,"$3,425 "
+2020-05-17,4396885,Male,37,Day,TRUE,Multiple,Vehicle,0,3419
+2020-05-17,4396886,Male,21,Night,TRUE,N/A,Burn,4.5,"$3,417 "
+2020-05-19,4397087,Male,25,Night,TRUE,Multiple,Equipment,0,"$3,411 "
+2020-05-21,4397288,Male,37,Night,TRUE,Feet,Falling object,0,"$3,397 "
+2020-05-22,4397389,Male,37,Day,TRUE,Head,Slip/trip,0,3379
+2020-05-23,4397490,Male,50,Night,TRUE,Trunk,Slip/trip,3.5,"$3,378 "
+2020-05-25,4397691,Male,25,Night,TRUE,N/A,Vehicle,0.5,"$3,367 "
+2020-05-26,4397792,Male,20,Day,TRUE,Neck,Equipment,0,"$3,339 "
+2020-05-26,4397793,Male,37,Night,TRUE,Multiple,Crush & Pinch,4.5,"$3,299 "
+2020-05-29,4398094,Male,26,Day,TRUE,Feet,Equipment,0,"$3,286 "
+2020-05-31,4398295,Male,37,Night,TRUE,Eye,Slip/trip,0,"$3,269 "
+2020-05-31,4398296,Male,50,Night,TRUE,Arms,Falling object,1,"$3,256 "
+2020-06-07,4398497,Male,50,Night,TRUE,Legs,Falling object,0,"$3,221 "
+2020-06-10,4398998,Male,26,Night,TRUE,Abdomen,Slip/trip,0,"$3,204 "
+2020-06-11,4399299,Male,18,Night,TRUE,Neck,Burn,2,"$3,203 "
+2020-06-12,43993100,Male,37,Night,TRUE,Multiple,Equipment,4.5,"$3,170 "
+2020-06-15,43994101,Male,20,Day,TRUE,Abdomen,Slip/trip,4.5,"$3,146 "
+2020-06-15,43997102,Male,20,Day,TRUE,Head,Fall,3.5,3134
+2020-06-16,43997103,Male,19,Night,TRUE,Back,Falling object,0,"$3,084 "
+2020-06-16,43998104,Male,19,Day,TRUE,Abdomen,Burn,2,"$3,060 "
+2020-06-19,44001105,Female,26,Day,TRUE,Arms,Cut,0,"$2,990 "
+2020-06-23,44005106,Male,26,Night,TRUE,Trunk,Cut,4.5,"$2,988 "
+2020-06-26,44008107,Male,51,Night,TRUE,Neck,Falling object,3,"$2,937 "
+2020-06-27,44009108,Male,37,Night,TRUE,Arms,Burn,1,"$2,877 "
+2020-06-28,44010109,Female,26,Day,TRUE,Trunk,Cut,4,"$2,861 "
+2020-06-30,44012110,Male,19,Day,TRUE,Legs,Cut,0,"$2,860 "
+2020-06-30,44012111,Male,19,Night,TRUE,Head,Slip/trip,0.5,"$2,854 "
+2020-07-01,44013112,Male,51,Night,TRUE,Hands,Cut,3,"$2,851 "
+2020-07-06,44018113,Male,19,Day,TRUE,Arms,Slip/trip,0,"$2,801 "
+2020-07-06,44018114,Female,51,Day,TRUE,Back,Vehicle,0,2795
+2020-07-07,44019115,Male,26,Day,TRUE,Multiple,Cut,0,2793
+2020-07-10,44022116,Male,26,Night,TRUE,Head,Slip/trip,2.5,"$2,790 "
+2020-07-11,44023117,Male,19,Night,TRUE,N/A,Equipment,2,"$2,777 "
+2020-07-12,44024118,Male,19,Night,TRUE,Feet,Fall,0,2764
+2020-07-12,44024119,Male,26,Night,TRUE,Head,Vehicle,4,"$2,705 "
+2020-07-13,44025120,Male,51,Day,TRUE,Head,Equipment,0,"$2,699 "
+2020-07-14,44026121,Male,21,Day,TRUE,Back,Burn,4.5,"$2,651 "
+2020-07-16,44028122,Male,38,Night,TRUE,Arms,Cut,3,"$2,627 "
+2020-07-18,44030123,Male,38,Night,TRUE,N/A,Equipment,4,"$2,622 "
+2020-07-19,44031124,Male,21,Night,TRUE,Back,Vehicle,0,"$2,615 "
+2020-07-22,44034125,Male,21,Day,TRUE,Back,Crush & Pinch,2,"$2,593 "
+2020-07-26,44038126,Male,26,Night,TRUE,Trunk,Burn,0,"$2,582 "
+2020-07-27,44039127,Male,26,Day,TRUE,Abdomen,Burn,5,"$2,569 "
+2020-07-28,44040128,Male,21,Night,TRUE,Multiple,Fall,2,"$2,544 "
+2020-07-28,44040129,Male,51,Night,TRUE,Arms,Crush & Pinch,4.5,"$2,525 "
+2020-07-30,44042130,Male,38,Night,TRUE,Multiple,Slip/trip,0,"$2,521 "
+2020-07-30,44042131,Female,38,Night,TRUE,Back,Crush & Pinch,0,"$2,514 "
+2020-08-01,44044132,Male,26,Night,TRUE,Eye,Lifting,0,"$2,481 "
+2020-08-03,44046133,Male,38,Day,TRUE,Back,Equipment,5,"$2,479 "
+2020-08-04,44047134,Male,38,Day,TRUE,Hands,Equipment,0,"$2,476 "
+2020-08-07,44050135,Male,38,Night,TRUE,Head,Crush & Pinch,0.5,"$2,468 "
+2020-08-09,44052136,Male,26,Night,TRUE,N/A,Equipment,5,"$2,468 "
+2020-08-09,44052137,Male,38,Night,TRUE,Trunk,Vehicle,3.5,"$2,466 "
+2020-08-10,44053138,Female,26,Day,TRUE,Legs,Lifting,0,"$2,461 "
+2020-08-11,44054139,Male,51,Night,TRUE,Trunk,Fall,0,"$2,459 "
+2020-08-12,44055140,Male,51,Night,TRUE,N/A,Crush & Pinch,1.5,2459
+2020-08-13,44056141,Male,38,Night,TRUE,Back,Fall,0,"$2,450 "
+2020-08-13,44056142,Female,38,Night,TRUE,N/A,Fall,0.5,"$2,437 "
+2020-08-13,44056143,Male,38,Night,TRUE,Multiple,Lifting,3,"$2,397 "
+2020-08-15,44058144,Male,38,Night,TRUE,Hands,Slip/trip,0,"$2,387 "
+2020-08-21,44064145,Male,38,Night,TRUE,N/A,Falling object,1.5,2381
+2020-08-21,44064146,Male,51,Night,TRUE,Back,Equipment,2.5,"$2,370 "
+2020-08-23,44066147,Female,38,Night,TRUE,Arms,Slip/trip,0,"$2,359 "
+2020-08-25,44068148,Male,26,Day,TRUE,Multiple,Slip/trip,0,2356
+2020-08-26,44069149,Male,38,Day,TRUE,Back,Lifting,0,"$2,351 "
+2020-08-27,44070150,Male,21,Day,TRUE,Legs,Crush & Pinch,0,"$2,337 "
+2020-08-27,44070151,Female,39,Night,TRUE,Legs,Crush & Pinch,1.5,2336
+2020-08-30,44073152,Male,39,Night,TRUE,Feet,Slip/trip,1,"$2,333 "
+2020-08-31,44074153,Female,21,Night,TRUE,Hands,Falling object,0,2321
+2020-09-05,44079154,Female,26,Day,TRUE,Eye,Vehicle,0,"$2,268 "
+2020-09-06,44080155,Male,51,Night,TRUE,Feet,Vehicle,1,"$2,245 "
+2020-09-07,44081156,Male,39,Day,TRUE,Feet,Lifting,1,"$2,237 "
+2020-09-11,44085157,Male,21,Night,TRUE,Feet,Burn,0,2184
+2020-09-13,44087158,Male,51,Night,TRUE,Back,Burn,1,2170
+2020-09-14,44088159,Male,39,Night,TRUE,Hands,Crush & Pinch,0,"$2,124 "
+2020-09-16,44090160,Female,39,Day,TRUE,Trunk,Falling object,0,"$2,120 "
+2020-09-22,44096161,Male,26,Night,TRUE,Hands,Cut,0,"$2,063 "
+2020-09-23,44097162,Male,21,Night,TRUE,Arms,Equipment,0,"$2,022 "
+2020-09-25,44099163,Male,39,Night,TRUE,Hands,Slip/trip,3,"$2,015 "
+2020-09-27,44101164,Male,51,Night,TRUE,Hands,Fall,0,"$2,007 "
+2020-09-30,44104165,Male,39,Night,TRUE,Eye,Vehicle,5,"$1,993 "
+2020-10-04,44108166,Male,39,Day,TRUE,Back,Lifting,0,"$1,951 "
+2020-10-09,44113167,Male,51,Day,TRUE,Neck,Crush & Pinch,0,"$1,947 "
+2020-10-11,44115168,Male,39,Night,TRUE,Head,Burn,4.5,"$1,935 "
+2020-10-12,44116169,Male,21,Day,TRUE,Neck,Crush & Pinch,2.5,"$1,922 "
+2020-10-12,44116170,Male,51,Night,TRUE,Eye,Equipment,5,1919
+2020-10-13,44117171,Male,26,Day,TRUE,Back,Vehicle,2,"$1,902 "
+2020-10-13,44117172,Male,39,Night,TRUE,Hands,Fall,0,"$1,890 "
+2020-10-14,44118173,Male,26,Night,TRUE,Multiple,Burn,0,"$1,884 "
+2020-10-16,44120174,Male,39,Day,TRUE,Back,Burn,0,"$1,872 "
+2020-10-16,44120175,Male,52,Night,TRUE,Abdomen,Crush & Pinch,0,1848
+2020-10-17,44121176,Male,26,Night,TRUE,Arms,Burn,0,"$1,835 "
+2020-10-19,44123177,Female,27,Day,TRUE,N/A,Burn,0,1824
+2020-10-22,44126178,Male,27,Night,TRUE,Feet,Lifting,0,"$1,819 "
+2020-10-24,44128179,Male,52,Day,TRUE,Legs,Slip/trip,3.5,"$1,806 "
+2020-10-26,44130180,Male,27,Night,TRUE,Feet,Equipment,4,"$1,793 "
+2020-10-27,44131181,Male,27,Night,TRUE,Abdomen,Burn,1.5,1777
+2020-10-27,44131182,Male,40,Night,TRUE,Neck,Vehicle,3.5,1769
+2020-10-30,44134183,Male,40,Night,TRUE,N/A,Fall,2.5,"$1,731 "
+2020-11-07,44142184,Male,40,Day,TRUE,N/A,Cut,0,"$1,710 "
+2020-11-11,44146185,Male,22,Night,TRUE,Eye,Cut,1.5,"$1,698 "
+2020-11-12,44147186,Male,22,Night,TRUE,Feet,Slip/trip,0,1696
+2020-11-15,44150187,Male,40,Night,TRUE,Back,Crush & Pinch,4.5,"$1,694 "
+2020-11-16,44151188,Male,52,Day,TRUE,Arms,Vehicle,0,"$1,690 "
+2020-11-18,44153189,Male,52,Day,TRUE,Multiple,Cut,0,1643
+2020-11-19,44154190,Male,40,Night,TRUE,Feet,Slip/trip,0,"$1,636 "
+2020-11-20,44155191,Female,40,Night,TRUE,Feet,Equipment,2,"$1,635 "
+2020-11-22,44157192,Female,27,Day,TRUE,Eye,Crush & Pinch,4,1594
+2020-11-22,44157193,Male,40,Day,TRUE,Feet,Crush & Pinch,1.5,"$1,592 "
+2020-11-24,44159194,Female,22,Night,TRUE,Neck,Cut,0,"$1,585 "
+2020-11-25,44160195,Female,27,Day,TRUE,Trunk,Equipment,5,"$1,505 "
+2020-11-29,44164196,Male,40,Day,TRUE,Multiple,Falling object,0,"$1,493 "
+2020-11-30,44165197,Male,27,Day,TRUE,Back,Cut,2.5,"$1,486 "
+2020-11-30,44165198,Male,27,Day,TRUE,Feet,Burn,1,1449
+2020-12-01,44166199,Male,27,Night,TRUE,Legs,Falling object,0,"$1,433 "
+2020-12-03,44168200,Male,52,Day,TRUE,Back,Falling object,0,"$1,430 "
+2020-12-04,44169201,Female,28,Night,TRUE,Legs,Equipment,3.5,1424
+2020-12-04,44169202,Male,28,Night,TRUE,Back,Cut,4,1392
+2020-12-04,44169203,Male,28,Night,TRUE,Neck,Lifting,0,"$1,335 "
+2020-12-06,44171204,Male,22,Night,TRUE,Head,Lifting,1,"$1,301 "
+2020-12-08,44173205,Male,52,Day,TRUE,Eye,Burn,0,1277
+2020-12-08,44173206,Male,22,Night,TRUE,Feet,Burn,1.5,"$1,248 "
+2020-12-09,44174207,Male,22,Night,TRUE,Hands,Equipment,1.5,"$1,241 "
+2020-12-10,44175208,Male,22,Day,TRUE,Neck,Fall,1.5,"$1,230 "
+2020-12-11,44176209,Male,22,Night,TRUE,N/A,Burn,0,"$1,222 "
+2020-12-12,44177210,Male,52,Night,TRUE,Trunk,Vehicle,3.5,"$1,213 "
+2020-12-16,44181211,Male,40,Night,TRUE,Arms,Fall,4,"$1,196 "
+2020-12-18,44183212,Male,41,Night,TRUE,Legs,Lifting,4,"$1,190 "
+2020-12-23,44188213,Male,28,Night,TRUE,Back,Cut,1.5,"$1,177 "
+2020-12-23,44188214,Male,22,Night,TRUE,Arms,Slip/trip,0,1174
+2020-12-24,44189215,Male,28,Night,TRUE,Neck,Crush & Pinch,1,"$1,173 "
+2020-12-25,44190216,Male,28,Night,TRUE,Feet,Equipment,0,"$1,168 "
+2020-12-25,44190217,Male,41,Night,TRUE,Abdomen,Crush & Pinch,3.5,"$1,155 "
+2020-12-27,44192218,Male,28,Day,TRUE,Eye,Vehicle,4.5,"$1,152 "
+2020-12-27,44192219,Male,28,Day,TRUE,Eye,Cut,0,"$1,136 "
+2020-12-30,44195220,Male,22,Day,TRUE,Hands,Falling object,0,"$1,121 "
+2020-12-30,44195221,Male,52,Night,TRUE,Multiple,Falling object,5,"$1,119 "
+2020-12-31,44196222,Male,29,Day,TRUE,Arms,Cut,0.5,"$1,084 "
+2021-01-03,44199223,Female,29,Night,TRUE,Feet,Cut,0,1045
+2021-01-03,44199224,Female,53,Night,TRUE,Arms,Cut,0,"$1,010 "
+2021-01-06,44202225,Male,41,Day,TRUE,Back,Burn,1.5,998
+2021-01-07,44203226,Male,41,Night,TRUE,N/A,Falling object,1.5,$995 
+2021-01-08,44204227,Male,41,Night,TRUE,Feet,Burn,0,$921 
+2021-01-08,44204228,Male,29,Night,TRUE,Hands,Cut,0.5,$920 
+2021-01-08,44204229,Male,53,Night,TRUE,Feet,Falling object,2.5,$903 
+2021-01-11,44207230,Male,29,Day,TRUE,Hands,Fall,0,$882 
+2021-01-13,44209231,Male,29,Night,TRUE,Multiple,Falling object,4.5,855
+2021-01-16,44212232,Male,29,Day,TRUE,Abdomen,Slip/trip,0,$845 
+2021-01-19,44215233,Male,53,Day,TRUE,Trunk,Vehicle,2.5,$819 
+2021-01-23,44219234,Male,22,Night,TRUE,Head,Vehicle,2.5,$807 
+2021-01-25,44221235,Male,53,Day,TRUE,Legs,Burn,0,$804 
+2021-01-26,44222236,Male,41,Night,TRUE,Trunk,Falling object,0,804
+2021-01-27,44223237,Male,29,Night,TRUE,Arms,Burn,0.5,$786 
+2021-02-02,44229238,Female,53,Night,TRUE,Abdomen,Crush & Pinch,4.5,$738 
+2021-02-02,44229239,Male,53,Day,TRUE,Back,Lifting,4,736
+2021-02-03,44230240,Male,23,Day,TRUE,Eye,Falling object,0,$733 
+2021-02-07,44234241,Male,53,Night,TRUE,Multiple,Lifting,0,719
+2021-02-11,44238242,Male,41,Night,TRUE,Abdomen,Burn,0,$718 
+2021-02-11,44238243,Male,41,Night,TRUE,Feet,Lifting,2.5,$709 
+2021-02-13,44240244,Male,53,Night,TRUE,Hands,Vehicle,0,706
+2021-02-14,44241245,Male,23,Night,TRUE,Arms,Burn,0.5,$674 
+2021-02-15,44242246,Male,53,Night,TRUE,Back,Fall,2,$674 
+2021-02-18,44245247,Male,23,Night,TRUE,Feet,Lifting,0,$668 
+2021-02-18,44245248,Female,29,Night,TRUE,Neck,Burn,0,$653 
+2021-02-19,44246249,Male,23,Night,TRUE,Arms,Vehicle,0,$634 
+2021-02-21,44248250,Male,29,Night,TRUE,Eye,Burn,0,$628 
+2021-02-24,44251251,Male,42,Night,TRUE,Neck,Slip/trip,5,$603 
+2021-02-26,44253252,Male,23,Day,TRUE,Hands,Fall,0,$588 
+2021-02-28,44255253,Male,23,Night,TRUE,Arms,Fall,4.5,585
+2021-03-01,44256254,Male,53,Day,TRUE,Feet,Cut,4,540
+2021-03-02,44257255,Male,23,Night,TRUE,Feet,Falling object,0,$534 
+2021-03-04,44259256,Male,29,Night,TRUE,Multiple,Vehicle,0,534
+2021-03-05,44260257,Male,30,Night,TRUE,Feet,Cut,0,$532 
+2021-03-05,44260258,Male,29,Night,TRUE,Hands,Lifting,0,$522 
+2021-03-11,44266259,Female,42,Night,TRUE,Arms,Crush & Pinch,0,$503 
+2021-03-12,44267260,Male,23,Night,TRUE,Back,Slip/trip,0,$501 
+2021-03-14,44269261,Male,30,Day,TRUE,Abdomen,Vehicle,3,$498 
+2021-03-14,44269262,Male,30,Night,TRUE,Trunk,Lifting,0,$493 
+2021-03-15,44270263,Male,23,Night,TRUE,Head,Cut,0,$491 
+2021-03-17,44272264,Female,30,Day,TRUE,Back,Lifting,0,$470 
+2021-03-17,44272265,Male,42,Night,TRUE,Neck,Burn,0,$466 
+2021-03-18,44273266,Male,30,Night,TRUE,Abdomen,Vehicle,0,461
+2021-03-19,44274267,Female,30,Night,TRUE,Neck,Cut,0,$457 
+2021-03-22,44277268,Male,53,Night,TRUE,Hands,Crush & Pinch,0,$457 
+2021-03-23,44278269,Male,53,Night,TRUE,Head,Cut,0,$456 
+2021-03-31,44286270,Male,42,Day,TRUE,Arms,Falling object,0,$453 
+2021-03-31,44286271,Female,23,Night,TRUE,Arms,Falling object,4.5,$450 
+2021-04-01,44287272,Male,30,Night,TRUE,Eye,Fall,0,$449 
+2021-04-01,44287273,Female,30,Day,TRUE,Feet,Vehicle,0,$442 
+2021-04-02,44288274,Female,30,Night,TRUE,Arms,Burn,0,$434 
+2021-04-06,44292275,Male,53,Day,TRUE,Arms,Fall,0,$430 
+2021-04-08,44294276,Male,30,Night,TRUE,Multiple,Burn,0,$423 
+2021-04-09,44295277,Male,53,Day,TRUE,Head,Equipment,0,$422 
+2021-04-11,44297278,Male,42,Night,TRUE,Multiple,Crush & Pinch,0,$420 
+2021-04-13,44299279,Male,53,Night,TRUE,Back,Lifting,0,$414 
+2021-04-14,44300280,Male,53,Night,TRUE,Eye,Fall,0,$395 
+2021-04-15,44301281,Female,30,Night,TRUE,N/A,Slip/trip,0,$394 
+2021-04-16,44302282,Male,53,Night,TRUE,Multiple,Equipment,0,385
+2021-04-17,44303283,Male,42,Night,TRUE,Eye,Fall,0,$383 
+2021-04-20,44306284,Male,30,Day,TRUE,Multiple,Slip/trip,0,$382 
+2021-04-20,44306285,Male,53,Day,TRUE,Head,Fall,0,$373 
+2021-04-21,44307286,Male,42,Day,TRUE,Trunk,Slip/trip,0,$369 
+2021-04-24,44310287,Male,23,Day,TRUE,Legs,Fall,0,$366 
+2021-04-25,44311288,Male,53,Night,TRUE,Head,Slip/trip,0,$361 
+2021-05-01,44317289,Male,42,Night,TRUE,Trunk,Fall,0,$360 
+2021-05-04,44320290,Male,31,Day,TRUE,N/A,Crush & Pinch,0,$359 
+2021-05-06,44322291,Male,31,Night,TRUE,N/A,Cut,0,$351 
+2021-05-07,44323292,Male,31,Day,TRUE,Head,Fall,0,350
+2021-05-08,44324293,Male,42,Day,TRUE,Back,Slip/trip,0,$342 
+2021-05-08,44324294,Male,23,Night,TRUE,Back,Cut,0,$341 
+2021-05-10,44326295,Male,31,Night,TRUE,Head,Equipment,0,341
+2021-05-12,44328296,Male,31,Night,TRUE,Multiple,Crush & Pinch,0,$338 
+2021-05-19,44335297,Male,31,Day,TRUE,Multiple,Lifting,0,330
+2021-05-19,44335298,Female,23,Night,TRUE,Multiple,Lifting,0,326
+2021-05-20,44336299,Male,31,Night,TRUE,Hands,Vehicle,0,$324 
+2021-05-20,44336300,Male,42,Night,TRUE,Multiple,Burn,0,$321 
+2021-05-24,44340301,Female,53,Night,TRUE,Head,Falling object,0,314
+2021-05-26,44342302,Male,23,Night,TRUE,Arms,Equipment,0,$308 
+2021-05-26,44342303,Male,53,Night,TRUE,Feet,Fall,0,$307 
+2021-05-29,44345304,Male,31,Night,TRUE,Trunk,Falling object,0,$305 
+2021-05-30,44346305,Male,42,Night,TRUE,Multiple,Equipment,0,$302 
+2021-06-01,44348306,Male,31,Day,TRUE,N/A,Fall,0,$297 
+2021-06-01,44348307,Male,53,Day,TRUE,Legs,Fall,0,$282 
+2021-06-02,44349308,Male,31,Night,TRUE,Legs,Vehicle,0,$281 
+2021-06-02,44349309,Male,31,Night,TRUE,Multiple,Slip/trip,0,$278 
+2021-06-03,44350310,Female,23,Night,TRUE,Eye,Slip/trip,0,277
+2021-06-03,44350311,Male,53,Night,TRUE,Legs,Burn,0,$265 
+2021-06-06,44353312,Male,31,Day,TRUE,Legs,Burn,0,$260 
+2021-06-07,44354313,Male,53,Day,TRUE,Eye,Fall,0,259
+2021-06-08,44355314,Male,23,Night,TRUE,N/A,Equipment,0,$250 
+2021-06-08,44355315,Male,53,Night,TRUE,Legs,Lifting,0,$249 
+2021-06-12,44359316,Male,23,Night,TRUE,Head,Fall,0,$247 
+2021-06-12,44359317,Male,43,Night,TRUE,Back,Burn,0,$244 
+2021-06-13,44360318,Male,53,Night,TRUE,Trunk,Slip/trip,0,$242 
+2021-06-15,44362319,Male,23,Night,TRUE,Hands,Cut,0,$238 
+2021-06-17,44364320,Male,23,Night,TRUE,Eye,Fall,0,$236 
+2021-06-18,44365321,Male,31,Day,TRUE,Multiple,Crush & Pinch,0,$229 
+2021-06-18,44365322,Male,43,Night,TRUE,Feet,Burn,0,$224 
+2021-06-18,44365323,Male,31,Night,TRUE,Feet,Equipment,0,$217 
+2021-06-19,44366324,Male,53,Night,TRUE,Legs,Vehicle,0,$209 
+2021-06-21,44368325,Male,43,Day,TRUE,Abdomen,Slip/trip,0,$207 
+2021-06-23,44370326,Male,23,Day,TRUE,Legs,Equipment,0,$206 
+2021-06-25,44372327,Male,53,Day,TRUE,Multiple,Crush & Pinch,0,$189 
+2021-06-26,44373328,Male,23,Night,TRUE,Eye,Fall,0,189
+2021-06-27,44374329,Male,32,Day,TRUE,Feet,Crush & Pinch,0,$180 
+2021-06-28,44375330,Male,43,Day,TRUE,Head,Cut,0,174
+2021-06-29,44376331,Male,32,Day,TRUE,Back,Burn,0,$173 
+2021-07-04,44381332,Male,32,Night,TRUE,Back,Fall,0,162
+2021-07-06,44383333,Male,23,Day,TRUE,Back,Burn,0,$159 
+2021-07-07,44384334,Male,43,Day,TRUE,Eye,Burn,0,$155 
+2021-07-08,44385335,Male,32,Night,TRUE,Hands,Falling object,0,$152 
+2021-07-08,44385336,Male,53,Night,TRUE,N/A,Equipment,0,$152 
+2021-07-11,44388337,Male,32,Night,TRUE,Neck,Equipment,0,$143 
+2021-07-12,44389338,Male,23,Night,TRUE,Abdomen,Equipment,0,$140 
+2021-07-13,44390339,Male,43,Night,TRUE,Feet,Vehicle,0,$133 
+2021-07-19,44396340,Male,53,Night,TRUE,N/A,Crush & Pinch,0,$132 
+2021-07-20,44397341,Male,23,Night,TRUE,Neck,Lifting,0,$129 
+2021-07-21,44398342,Male,53,Night,TRUE,Feet,Cut,0,$125 
+2021-07-22,44399343,Male,32,Night,TRUE,Head,Vehicle,0,$119 
+2021-07-25,44402344,Male,32,Night,TRUE,Eye,Slip/trip,0,$118 
+2021-07-25,44402345,Male,32,Night,TRUE,Head,Crush & Pinch,0,$118 
+2021-07-31,44408346,Male,43,Night,TRUE,Eye,Burn,0,$115 
+2021-08-02,44410347,Male,32,Night,TRUE,Eye,Equipment,0,115
+2021-08-03,44411348,Male,32,Night,TRUE,Back,Cut,0,114
+2021-08-07,44415349,Male,32,Night,TRUE,Eye,Fall,0,$107 
+2021-08-07,44415350,Male,43,Night,TRUE,Arms,Cut,0,$95 
+2021-08-10,44418351,Male,53,Night,TRUE,Hands,Lifting,0,$88 
+2021-08-12,44420352,Male,23,Night,TRUE,Trunk,Falling object,0,$88 
+2021-08-13,44421353,Male,24,Night,TRUE,Legs,Equipment,0,$84 
+2021-08-16,44424354,Male,44,Night,TRUE,Feet,Slip/trip,0,83
+2021-08-18,44426355,Male,44,Night,TRUE,Eye,Burn,0,$77 
+2021-08-19,44427356,Female,24,Night,TRUE,Head,Crush & Pinch,0,77
+2021-08-21,44429357,Male,32,Night,TRUE,Legs,Lifting,0,$76 
+2021-08-22,44430358,Male,53,Night,TRUE,Feet,Falling object,0,$67 
+2021-08-22,44430359,Male,32,Night,TRUE,Trunk,Equipment,0,67
+2021-08-22,44430360,Male,44,Night,TRUE,Legs,Fall,0,$66 
+2021-08-23,44431361,Male,32,Day,TRUE,Legs,Fall,0,$65 
+2021-08-24,44432362,Female,44,Night,TRUE,Trunk,Fall,0,$60 
+2021-08-29,44437363,Male,32,Night,TRUE,N/A,Cut,0,60
+2021-08-29,44437364,Male,44,Night,TRUE,N/A,Falling object,0,$59 
+2021-09-01,44440365,Male,24,Day,TRUE,Feet,Falling object,0,59
+2021-09-03,44442366,Male,32,Day,TRUE,Arms,Burn,0,$58 
+2021-09-03,44442367,Male,32,Night,TRUE,Abdomen,Lifting,0,$57 
+2021-09-06,44445368,Female,53,Day,TRUE,Abdomen,Equipment,0,$53 
+2021-09-10,44449369,Male,44,Day,TRUE,N/A,Fall,0,41
+2021-09-11,44450370,Male,44,Night,TRUE,Trunk,Equipment,0,$40 
+2021-09-15,44454371,Male,24,Night,TRUE,Abdomen,Cut,0,$37 
+2021-09-17,44456372,Male,53,Night,TRUE,Back,Slip/trip,0,$37 
+2021-09-18,44457373,Male,24,Day,TRUE,Trunk,Lifting,0,$36 
+2021-09-19,44458374,Male,24,Day,TRUE,N/A,Fall,0,$29 
+2021-09-20,44459375,Male,32,Night,TRUE,Neck,Falling object,0,$8 
+2021-09-24,44463376,Male,53,Day,TRUE,N/A,Fall,0,5
+2021-09-28,44467377,Female,53,Night,TRUE,Multiple,Burn,0,$0 
+2021-09-29,44468378,Male,44,Night,TRUE,Eye,Cut,0,$0 
+2021-10-01,44470379,Male,32,Night,TRUE,Legs,Falling object,0,$0 
+2021-10-01,44470380,Female,32,Night,TRUE,Legs,Lifting,0,$0 
+2021-10-05,44474381,Male,33,Day,TRUE,Arms,Burn,0,$0 
+2021-10-10,44479382,Male,24,Night,TRUE,Head,Lifting,0,$0 
+2021-10-13,44482383,Male,24,Night,TRUE,Abdomen,Equipment,0,$0 
+2021-10-14,44483384,Male,33,Day,TRUE,Back,Slip/trip,0,$0 
+2021-10-14,44483385,Male,44,Night,TRUE,Eye,Burn,0,$0 
+2021-10-15,44484386,Female,53,Night,TRUE,Eye,Burn,0,$0 
+2021-10-16,44485387,Male,45,Day,TRUE,Arms,Cut,0,$0 
+2021-10-17,44486388,Male,45,Night,TRUE,Eye,Lifting,0,$0 
+2021-10-19,44488389,Male,33,Day,TRUE,Multiple,Falling object,0,$0 
+2021-10-19,44488390,Male,45,Night,TRUE,Legs,Slip/trip,0,$0 
+2021-10-23,44492391,Male,24,Day,TRUE,Arms,Fall,0,$0 
+2021-10-23,44492392,Male,33,Day,TRUE,Neck,Burn,0,$0 
+2021-10-26,44495393,Male,45,Day,TRUE,Legs,Equipment,0,$0 
+2021-10-28,44497394,Male,45,Day,TRUE,Eye,Equipment,0,$0 
+2021-10-30,44499395,Male,53,Day,TRUE,Trunk,Slip/trip,0,$0 
+2021-11-02,44502396,Male,53,Day,TRUE,Trunk,Lifting,0,$0 
+2021-11-06,44506397,Male,53,Night,TRUE,Abdomen,Slip/trip,0,$0 
+2021-11-09,44509398,Male,45,Night,TRUE,Feet,Fall,0,$0 
+2021-11-10,44510399,Male,53,Day,TRUE,N/A,Cut,0,$0 
+2021-11-12,44512400,Male,24,Night,TRUE,Back,Falling object,0,$0 
+2021-11-14,44514401,Female,45,Night,TRUE,Neck,Lifting,0,$0 
+2021-11-15,44515402,Male,33,Night,TRUE,Legs,Lifting,0,$0 
+2021-11-15,44515403,Male,53,Night,TRUE,Head,Crush & Pinch,0,$0 
+2021-11-16,44516404,Male,33,Day,TRUE,Feet,Slip/trip,0,$0 
+2021-11-17,44517405,Female,45,Night,TRUE,Legs,Equipment,0,$0 
+2021-11-21,44521406,Male,33,Day,TRUE,Legs,Crush & Pinch,0,$0 
+2021-11-22,44522407,Male,33,Night,TRUE,Trunk,Crush & Pinch,0,$0 
+2021-11-23,44523408,Male,46,Night,TRUE,Abdomen,Crush & Pinch,0,$0 
+2021-11-24,44524409,Male,24,Night,TRUE,Head,Lifting,0,$0 
+2021-11-26,44526410,Male,24,Night,TRUE,Back,Equipment,0,$0 
+2021-11-28,44528411,Female,53,Day,TRUE,Trunk,Lifting,0,$0 
+2021-11-30,44530412,Male,24,Night,TRUE,N/A,Falling object,0,$0 
+2021-12-03,44533413,Female,33,Day,TRUE,Neck,Crush & Pinch,0,$0 
+2021-12-04,44534414,Male,53,Night,TRUE,Trunk,Slip/trip,0,$0 
+2021-12-06,44536415,Male,33,Night,TRUE,Legs,Vehicle,0,$0 
+2021-12-06,44536416,Male,33,Night,TRUE,Trunk,Cut,0,$0 
+2021-12-08,44538417,Male,46,Night,TRUE,Hands,Cut,0,$0 
+2021-12-17,44547418,Male,46,Day,TRUE,Legs,Slip/trip,0,$0 
+2021-12-20,44550419,Male,53,Night,TRUE,Legs,Cut,0,$0 
+2021-12-22,44552420,Male,33,Day,TRUE,Head,Fall,0,$0 
+2021-12-23,44553421,Male,46,Day,TRUE,N/A,Cut,0,$0 
+2021-12-28,44558422,Male,46,Night,TRUE,N/A,Slip/trip,0,$0 
+2021-12-29,44559423,Male,53,Night,TRUE,Legs,Vehicle,0,$0 
+2022-01-02,44563424,Male,53,Night,TRUE,Eye,Falling object,0,$0 
+2022-01-03,44564425,Male,46,Night,TRUE,Arms,Cut,0,$0 
+2022-01-04,44565426,Male,34,Night,TRUE,Neck,Slip/trip,0,$0 
+2022-01-04,44565427,Male,34,Night,TRUE,Multiple,Vehicle,0,$0 
+2022-01-08,44569428,Male,34,Day,TRUE,Abdomen,Cut,0,$0 
+2022-01-09,44570429,Female,46,Night,TRUE,Head,Equipment,0,$0 
+2022-01-12,44573430,Male,53,Day,TRUE,Hands,Fall,0,$0 
+2022-01-14,44575431,Male,46,Night,TRUE,Multiple,Fall,0,$0 
+2022-01-15,44576432,Male,53,Day,TRUE,Multiple,Falling object,0,$0 
+2022-01-16,44577433,Male,53,Day,TRUE,Hands,Fall,0,$0 
+2022-01-16,44577434,Male,53,Night,TRUE,Legs,Fall,0,$0 
+2022-01-19,44580435,Male,34,Night,TRUE,Back,Slip/trip,0,$0 
+2022-01-19,44580436,Male,46,Night,TRUE,Trunk,Falling object,0,$0 
+2022-01-20,44581437,Male,24,Night,TRUE,Trunk,Lifting,0,$0 
+2022-01-21,44582438,Male,24,Night,TRUE,Back,Vehicle,0,$0 
+2022-01-22,44583439,Male,46,Night,TRUE,Feet,Fall,0,$0 
+2022-01-27,44588440,Male,34,Night,TRUE,Trunk,Fall,0,$0 
+2022-01-28,44589441,Male,24,Day,TRUE,Neck,Slip/trip,0,$0 
+2022-01-28,44589442,Male,24,Night,TRUE,Multiple,Vehicle,0,$0 
+2022-01-30,44591443,Female,47,Day,TRUE,Trunk,Lifting,0,$0 
+2022-02-02,44594444,Male,34,Night,TRUE,Back,Slip/trip,0,$0 
+2022-02-02,44594445,Male,47,Night,TRUE,Arms,Lifting,0,$0 
+2022-02-06,44598446,Male,53,Night,TRUE,Abdomen,Equipment,0,$0 
+2022-02-07,44599447,Male,18,Day,TRUE,Neck,Fall,0,$0 
+2022-02-08,44600448,Male,47,Night,TRUE,Neck,Falling object,0,$0 
+2022-02-08,44600449,Male,53,Night,TRUE,Eye,Crush & Pinch,0,$0 
+2022-02-09,44601450,Male,54,Night,TRUE,Eye,Burn,0,$0 
+2022-02-09,44601451,Male,54,Night,TRUE,Arms,Falling object,0,$0 
+2022-02-10,44602452,Male,34,Night,TRUE,Trunk,Falling object,0,$0 
+2022-02-11,44603453,Male,34,Night,TRUE,Arms,Cut,0,$0 
+2022-02-14,44606454,Male,47,Night,TRUE,Multiple,Vehicle,0,$0 
+2022-02-14,44606455,Male,54,Night,TRUE,Abdomen,Falling object,0,$0 
+2022-02-15,44607456,Male,47,Night,TRUE,Head,Vehicle,0,$0 
+2022-02-22,44614457,Male,34,Night,TRUE,Head,Burn,0,$0 
+2022-02-23,44615458,Female,54,Night,TRUE,Feet,Fall,0,$0 
+2022-02-24,44616459,Male,47,Night,TRUE,Neck,Vehicle,0,$0 
+2022-02-24,44616460,Male,47,Night,TRUE,Trunk,Cut,0,$0 
+2022-02-26,44618461,Female,34,Night,TRUE,Feet,Lifting,0,$0 
+2022-02-27,44619462,Male,47,Night,TRUE,Arms,Falling object,0,$0 
+2022-02-28,44620463,Male,47,Night,TRUE,Trunk,Vehicle,0,$0 
+2022-03-03,44623464,Male,47,Night,TRUE,Arms,Lifting,0,$0 
+2022-03-12,44632465,Male,18,Night,TRUE,Abdomen,Burn,0,$0 
+2022-03-12,44632466,Male,54,Night,TRUE,Arms,Lifting,0,$0 
+2022-03-15,44635467,Male,34,Day,TRUE,Abdomen,Burn,0,$0 
+2022-03-17,44637468,Male,54,Night,TRUE,Feet,Falling object,0,$0 
+2022-03-22,44642469,Male,18,Night,TRUE,N/A,Cut,0,$0 
+2022-03-22,44642470,Male,34,Night,TRUE,Trunk,Falling object,0,$0 
+2022-03-25,44645471,Male,34,Night,TRUE,Head,Slip/trip,0,$0 
+2022-03-26,44646472,Male,54,Day,TRUE,Legs,Fall,0,$0 
+2022-03-28,44648473,Male,54,Night,TRUE,Arms,Vehicle,0,$0 
+2022-04-01,44652474,Male,47,Day,TRUE,Head,Burn,0,$0 
+2022-04-01,44652475,Male,18,Night,TRUE,Multiple,Lifting,0,$0 
+2022-04-03,44654476,Male,34,Night,TRUE,Multiple,Falling object,0,$0 
+2022-04-04,44655477,Male,18,Night,TRUE,Feet,Falling object,0,$0 
+2022-04-06,44657478,Male,54,Night,TRUE,Eye,Equipment,0,$0 
+2022-04-07,44658479,Male,48,Day,TRUE,Abdomen,Falling object,0,$0 
+2022-04-07,44658480,Male,48,Night,TRUE,Multiple,Vehicle,0,$0 
+2022-04-08,44659481,Male,19,Night,TRUE,Hands,Lifting,0,$0 
+2022-04-08,44659482,Male,20,Night,TRUE,Legs,Cut,0,$0 
+2022-04-12,44663483,Male,34,Night,TRUE,Multiple,Fall,0,$0 
+2022-04-17,44668484,Male,34,Day,TRUE,Head,Cut,0,$0 
+2022-04-20,44671485,Male,48,Night,TRUE,Abdomen,Cut,0,$0 
+2022-04-24,44675486,Male,20,Day,TRUE,Back,Fall,0,$0 
+2022-04-24,44675487,Male,34,Night,TRUE,Hands,Cut,0,$0 
+2022-04-27,44678488,Male,34,Day,TRUE,Feet,Lifting,0,$0 
+2022-04-27,44678489,Male,54,Night,TRUE,Arms,Fall,0,$0 
+2022-04-29,44680490,Male,54,Night,TRUE,Legs,Lifting,0,$0 
+2022-05-03,44684491,Female,48,Night,TRUE,N/A,Cut,0,$0 
+2022-05-06,44687492,Male,20,Day,TRUE,Head,Fall,0,0
+2022-05-07,44688493,Male,55,Night,TRUE,Hands,Slip/trip,0,0
+2022-05-08,44689494,Male,34,Day,TRUE,Hands,Equipment,0,0
+2022-05-11,44692495,Male,55,Night,TRUE,N/A,Burn,0,0
+2022-05-16,44697496,Male,34,Night,TRUE,Neck,Slip/trip,0,0
+2022-05-17,44698497,Male,49,Night,TRUE,Legs,Vehicle,0,0
+2022-05-19,44700498,Male,55,Day,TRUE,Multiple,Falling object,0,0
+2022-05-23,44704499,Male,21,Day,TRUE,Head,Crush & Pinch,0,0
+2022-05-26,44707500,Male,49,Night,TRUE,Hands,Vehicle,0,0
+2022-05-27,44708501,Male,21,Night,TRUE,Back,Burn,0,0
+2022-05-30,44711502,Male,22,Night,TRUE,Hands,Vehicle,0,0
+2022-05-31,44712503,Male,34,Night,TRUE,Legs,Equipment,0,0
+2022-06-03,44715504,Male,22,Day,TRUE,Arms,Lifting,0,0
+2022-06-03,44715505,Male,55,Night,TRUE,Arms,Vehicle,0,0
+2022-06-03,44715506,Male,55,Night,TRUE,Eye,Slip/trip,0,0
+2022-06-05,44717507,Male,31,Night,TRUE,Head,Slip/trip,0,0
+2022-06-07,44719508,Male,31,Day,TRUE,Head,Burn,0,0
+2022-06-10,44722509,Female,55,Day,TRUE,Hands,Vehicle,0,0
+2022-06-25,44737510,Male,60,Day,TRUE,Feet,Cut,0,0
+2022-06-26,44738511,Female,31,Night,TRUE,Back,Lifting,0,0
+2022-06-27,44739512,Male,31,Night,TRUE,Back,Slip/trip,0,0
+2022-06-28,44740513,Male,22,Night,TRUE,Abdomen,Crush & Pinch,0,0
+2022-06-28,44740514,Male,31,Night,TRUE,Hands,Lifting,0,0
+2022-06-28,44740515,Male,60,Night,TRUE,Hands,Cut,0,0
+=======
+Date,ID,Gender,Age,Shift,,Injury Location,Incident Type,Days Lost,Incident Cost
+2020-01-01,438312,Male,25,Night,TRUE,Trunk,Burn,0,"$5,000 "
+2020-01-03,438333,Female,18,Day,TRUE,Abdomen,Cut,0,"$4,994 "
+2020-01-03,438334,Male,35,Day,TRUE,Back,Lifting,5,"$4,969 "
+2020-01-04,438345,Female,50,Day,TRUE,Legs,Lifting,2.5,4947
+2020-01-07,438376,Male,25,Day,TRUE,Abdomen,Lifting,3,"$4,940 "
+2020-01-11,438417,Male,25,Day,TRUE,Neck,Fall,0,"$4,933 "
+2020-01-11,438418,Female,50,Night,TRUE,Back,Lifting,2,4908
+2020-01-12,438429,Male,35,Night,TRUE,Head,Lifting,0,"$4,905 "
+2020-01-15,4384510,Male,19,Night,TRUE,Abdomen,Falling object,5,"$4,879 "
+2020-01-16,4384611,Male,50,Night,TRUE,Neck,Crush & Pinch,3.5,"$4,872 "
+2020-01-18,4384812,Female,35,Night,TRUE,Abdomen,Falling object,0,"$4,871 "
+2020-01-23,4385313,Male,35,Night,TRUE,Multiple,Slip/trip,1.5,"$4,871 "
+2020-01-26,4385614,Male,35,Day,TRUE,Back,Vehicle,0,"$4,836 "
+2020-01-27,4385715,Male,50,Day,TRUE,Eye,Cut,0,"$4,834 "
+2020-01-27,4385716,Male,35,Night,TRUE,N/A,Crush & Pinch,1.5,"$4,823 "
+2020-01-27,4385717,Male,50,Day,TRUE,N/A,Equipment,0,"$4,800 "
+2020-01-30,4386018,Male,35,Day,TRUE,Arms,Slip/trip,0,"$4,791 "
+2020-01-30,4386019,Male,22,Night,TRUE,Abdomen,Burn,1.5,"$4,781 "
+2020-02-01,4386220,Male,50,Night,TRUE,Legs,Crush & Pinch,4,"$4,771 "
+2020-02-03,4386421,Male,36,Night,TRUE,Hands,Fall,4,"$4,743 "
+2020-02-04,4386522,Male,21,Night,TRUE,Legs,Lifting,0,"$4,741 "
+2020-02-09,4387023,Male,25,Night,TRUE,Back,Falling object,1.5,"$4,731 "
+2020-02-09,4387024,Male,36,Night,TRUE,N/A,Crush & Pinch,2.5,"$4,718 "
+2020-02-10,4387125,Male,36,Day,TRUE,Feet,Lifting,0,"$4,698 "
+2020-02-10,4387126,Male,36,Night,TRUE,Head,Vehicle,0,"$4,685 "
+2020-02-11,4387227,Male,25,Night,TRUE,Multiple,Burn,0,"$4,664 "
+2020-02-12,4387328,Male,50,Night,TRUE,Legs,Burn,0,4639
+2020-02-13,4387429,Male,25,Night,TRUE,Hands,Falling object,1.5,"$4,618 "
+2020-02-13,4387430,Male,50,Night,TRUE,N/A,Slip/trip,0,"$4,587 "
+2020-02-14,4387531,Male,25,Night,TRUE,N/A,Lifting,0,"$4,570 "
+2020-02-16,4387732,Male,50,Day,TRUE,Head,Falling object,2.5,4563
+2020-02-17,4387833,Female,36,Night,TRUE,Multiple,Fall,0,"$4,530 "
+2020-02-19,4388034,Female,36,Day,TRUE,N/A,Slip/trip,0,"$4,462 "
+2020-02-20,4388135,Male,25,Night,TRUE,Head,Burn,0,"$4,455 "
+2020-02-22,4388336,Male,25,Night,TRUE,Head,Equipment,0,"$4,444 "
+2020-02-27,4388837,Male,50,Night,TRUE,Feet,Burn,1.5,"$4,414 "
+2020-02-28,4388938,Male,50,Night,TRUE,Trunk,Equipment,4.5,"$4,411 "
+2020-03-01,4389139,Male,20,Night,TRUE,Abdomen,Fall,4.5,"$4,399 "
+2020-03-03,4389340,Male,50,Day,TRUE,Feet,Burn,5,"$4,373 "
+2020-03-03,4389341,Male,36,Night,TRUE,Trunk,Fall,0,"$4,366 "
+2020-03-06,4389642,Male,19,Day,TRUE,Legs,Fall,3,"$4,303 "
+2020-03-06,4389643,Male,25,Night,TRUE,Back,Slip/trip,0,"$4,292 "
+2020-03-07,4389744,Male,22,Night,TRUE,Abdomen,Crush & Pinch,0,"$4,288 "
+2020-03-11,4390145,Male,36,Day,TRUE,N/A,Equipment,5,"$4,281 "
+2020-03-12,4390246,Female,24,Day,TRUE,Legs,Burn,0,"$4,260 "
+2020-03-17,4390747,Male,25,Day,TRUE,Head,Vehicle,0,"$4,259 "
+2020-03-20,4391048,Female,36,Day,TRUE,Trunk,Fall,0,"$4,247 "
+2020-03-21,4391149,Male,36,Night,TRUE,Back,Slip/trip,0,"$4,246 "
+2020-03-23,4391350,Male,36,Night,TRUE,Abdomen,Crush & Pinch,0,"$4,229 "
+2020-04-03,4392451,Male,18,Night,TRUE,Feet,Cut,0,"$4,213 "
+2020-04-04,4392552,Male,25,Day,TRUE,Abdomen,Equipment,0,"$4,176 "
+2020-04-04,4392553,Male,36,Day,TRUE,Hands,Vehicle,2,"$4,160 "
+2020-04-04,4392554,Male,25,Night,TRUE,Eye,Slip/trip,0,4150
+2020-04-06,4392755,Male,21,Night,TRUE,Arms,Fall,0,4149
+2020-04-07,4392856,Male,25,Night,TRUE,N/A,Slip/trip,0.5,4145
+2020-04-12,4393357,Male,25,Night,TRUE,Eye,Equipment,0,4130
+2020-04-13,4393458,Male,22,Day,TRUE,N/A,Vehicle,0,"$4,069 "
+2020-04-13,4393459,Female,50,Night,TRUE,Head,Lifting,0,"$4,021 "
+2020-04-14,4393560,Male,50,Night,TRUE,Head,Falling object,0,"$4,016 "
+2020-04-14,4393561,Male,50,Night,TRUE,Neck,Lifting,4,"$3,969 "
+2020-04-15,4393662,Male,36,Night,TRUE,Hands,Crush & Pinch,1,"$3,959 "
+2020-04-16,4393763,Male,50,Night,TRUE,Back,Lifting,1,"$3,954 "
+2020-04-17,4393864,Male,25,Night,TRUE,Arms,Vehicle,0,"$3,871 "
+2020-04-18,4393965,Male,25,Night,TRUE,Head,Cut,0,"$3,851 "
+2020-04-21,4394266,Male,23,Night,TRUE,Multiple,Burn,0,"$3,849 "
+2020-04-21,4394267,Female,22,Night,TRUE,Feet,Burn,3,"$3,846 "
+2020-04-22,4394368,Male,37,Day,TRUE,Abdomen,Crush & Pinch,0,"$3,846 "
+2020-04-22,4394369,Male,24,Night,TRUE,Trunk,Slip/trip,3.5,3824
+2020-04-24,4394570,Male,18,Day,TRUE,Eye,Burn,2.5,"$3,817 "
+2020-04-25,4394671,Female,50,Day,TRUE,Head,Equipment,4.5,"$3,784 "
+2020-04-27,4394872,Female,24,Day,TRUE,Back,Fall,2.5,"$3,734 "
+2020-05-02,4395373,Male,25,Day,TRUE,N/A,Equipment,3.5,"$3,716 "
+2020-05-04,4395574,Male,25,Day,TRUE,Head,Lifting,0,"$3,713 "
+2020-05-05,4395675,Male,50,Night,TRUE,Arms,Falling object,5,"$3,692 "
+2020-05-07,4395876,Male,23,Night,TRUE,Head,Vehicle,4,"$3,680 "
+2020-05-08,4395977,Male,22,Night,TRUE,Neck,Crush & Pinch,1,"$3,657 "
+2020-05-08,4395978,Male,50,Night,TRUE,Eye,Falling object,4.5,"$3,588 "
+2020-05-09,4396079,Male,37,Night,TRUE,Multiple,Equipment,1,3582
+2020-05-10,4396180,Male,37,Day,TRUE,Hands,Slip/trip,2,"$3,549 "
+2020-05-10,4396181,Male,37,Night,TRUE,Feet,Equipment,4,3498
+2020-05-11,4396282,Male,50,Night,TRUE,Hands,Slip/trip,2.5,"$3,488 "
+2020-05-13,4396483,Male,37,Night,TRUE,Legs,Cut,0,"$3,487 "
+2020-05-13,4396484,Male,50,Night,TRUE,Abdomen,Crush & Pinch,3,"$3,425 "
+2020-05-17,4396885,Male,37,Day,TRUE,Multiple,Vehicle,0,3419
+2020-05-17,4396886,Male,21,Night,TRUE,N/A,Burn,4.5,"$3,417 "
+2020-05-19,4397087,Male,25,Night,TRUE,Multiple,Equipment,0,"$3,411 "
+2020-05-21,4397288,Male,37,Night,TRUE,Feet,Falling object,0,"$3,397 "
+2020-05-22,4397389,Male,37,Day,TRUE,Head,Slip/trip,0,3379
+2020-05-23,4397490,Male,50,Night,TRUE,Trunk,Slip/trip,3.5,"$3,378 "
+2020-05-25,4397691,Male,25,Night,TRUE,N/A,Vehicle,0.5,"$3,367 "
+2020-05-26,4397792,Male,20,Day,TRUE,Neck,Equipment,0,"$3,339 "
+2020-05-26,4397793,Male,37,Night,TRUE,Multiple,Crush & Pinch,4.5,"$3,299 "
+2020-05-29,4398094,Male,26,Day,TRUE,Feet,Equipment,0,"$3,286 "
+2020-05-31,4398295,Male,37,Night,TRUE,Eye,Slip/trip,0,"$3,269 "
+2020-05-31,4398296,Male,50,Night,TRUE,Arms,Falling object,1,"$3,256 "
+2020-06-07,4398497,Male,50,Night,TRUE,Legs,Falling object,0,"$3,221 "
+2020-06-10,4398998,Male,26,Night,TRUE,Abdomen,Slip/trip,0,"$3,204 "
+2020-06-11,4399299,Male,18,Night,TRUE,Neck,Burn,2,"$3,203 "
+2020-06-12,43993100,Male,37,Night,TRUE,Multiple,Equipment,4.5,"$3,170 "
+2020-06-15,43994101,Male,20,Day,TRUE,Abdomen,Slip/trip,4.5,"$3,146 "
+2020-06-15,43997102,Male,20,Day,TRUE,Head,Fall,3.5,3134
+2020-06-16,43997103,Male,19,Night,TRUE,Back,Falling object,0,"$3,084 "
+2020-06-16,43998104,Male,19,Day,TRUE,Abdomen,Burn,2,"$3,060 "
+2020-06-19,44001105,Female,26,Day,TRUE,Arms,Cut,0,"$2,990 "
+2020-06-23,44005106,Male,26,Night,TRUE,Trunk,Cut,4.5,"$2,988 "
+2020-06-26,44008107,Male,51,Night,TRUE,Neck,Falling object,3,"$2,937 "
+2020-06-27,44009108,Male,37,Night,TRUE,Arms,Burn,1,"$2,877 "
+2020-06-28,44010109,Female,26,Day,TRUE,Trunk,Cut,4,"$2,861 "
+2020-06-30,44012110,Male,19,Day,TRUE,Legs,Cut,0,"$2,860 "
+2020-06-30,44012111,Male,19,Night,TRUE,Head,Slip/trip,0.5,"$2,854 "
+2020-07-01,44013112,Male,51,Night,TRUE,Hands,Cut,3,"$2,851 "
+2020-07-06,44018113,Male,19,Day,TRUE,Arms,Slip/trip,0,"$2,801 "
+2020-07-06,44018114,Female,51,Day,TRUE,Back,Vehicle,0,2795
+2020-07-07,44019115,Male,26,Day,TRUE,Multiple,Cut,0,2793
+2020-07-10,44022116,Male,26,Night,TRUE,Head,Slip/trip,2.5,"$2,790 "
+2020-07-11,44023117,Male,19,Night,TRUE,N/A,Equipment,2,"$2,777 "
+2020-07-12,44024118,Male,19,Night,TRUE,Feet,Fall,0,2764
+2020-07-12,44024119,Male,26,Night,TRUE,Head,Vehicle,4,"$2,705 "
+2020-07-13,44025120,Male,51,Day,TRUE,Head,Equipment,0,"$2,699 "
+2020-07-14,44026121,Male,21,Day,TRUE,Back,Burn,4.5,"$2,651 "
+2020-07-16,44028122,Male,38,Night,TRUE,Arms,Cut,3,"$2,627 "
+2020-07-18,44030123,Male,38,Night,TRUE,N/A,Equipment,4,"$2,622 "
+2020-07-19,44031124,Male,21,Night,TRUE,Back,Vehicle,0,"$2,615 "
+2020-07-22,44034125,Male,21,Day,TRUE,Back,Crush & Pinch,2,"$2,593 "
+2020-07-26,44038126,Male,26,Night,TRUE,Trunk,Burn,0,"$2,582 "
+2020-07-27,44039127,Male,26,Day,TRUE,Abdomen,Burn,5,"$2,569 "
+2020-07-28,44040128,Male,21,Night,TRUE,Multiple,Fall,2,"$2,544 "
+2020-07-28,44040129,Male,51,Night,TRUE,Arms,Crush & Pinch,4.5,"$2,525 "
+2020-07-30,44042130,Male,38,Night,TRUE,Multiple,Slip/trip,0,"$2,521 "
+2020-07-30,44042131,Female,38,Night,TRUE,Back,Crush & Pinch,0,"$2,514 "
+2020-08-01,44044132,Male,26,Night,TRUE,Eye,Lifting,0,"$2,481 "
+2020-08-03,44046133,Male,38,Day,TRUE,Back,Equipment,5,"$2,479 "
+2020-08-04,44047134,Male,38,Day,TRUE,Hands,Equipment,0,"$2,476 "
+2020-08-07,44050135,Male,38,Night,TRUE,Head,Crush & Pinch,0.5,"$2,468 "
+2020-08-09,44052136,Male,26,Night,TRUE,N/A,Equipment,5,"$2,468 "
+2020-08-09,44052137,Male,38,Night,TRUE,Trunk,Vehicle,3.5,"$2,466 "
+2020-08-10,44053138,Female,26,Day,TRUE,Legs,Lifting,0,"$2,461 "
+2020-08-11,44054139,Male,51,Night,TRUE,Trunk,Fall,0,"$2,459 "
+2020-08-12,44055140,Male,51,Night,TRUE,N/A,Crush & Pinch,1.5,2459
+2020-08-13,44056141,Male,38,Night,TRUE,Back,Fall,0,"$2,450 "
+2020-08-13,44056142,Female,38,Night,TRUE,N/A,Fall,0.5,"$2,437 "
+2020-08-13,44056143,Male,38,Night,TRUE,Multiple,Lifting,3,"$2,397 "
+2020-08-15,44058144,Male,38,Night,TRUE,Hands,Slip/trip,0,"$2,387 "
+2020-08-21,44064145,Male,38,Night,TRUE,N/A,Falling object,1.5,2381
+2020-08-21,44064146,Male,51,Night,TRUE,Back,Equipment,2.5,"$2,370 "
+2020-08-23,44066147,Female,38,Night,TRUE,Arms,Slip/trip,0,"$2,359 "
+2020-08-25,44068148,Male,26,Day,TRUE,Multiple,Slip/trip,0,2356
+2020-08-26,44069149,Male,38,Day,TRUE,Back,Lifting,0,"$2,351 "
+2020-08-27,44070150,Male,21,Day,TRUE,Legs,Crush & Pinch,0,"$2,337 "
+2020-08-27,44070151,Female,39,Night,TRUE,Legs,Crush & Pinch,1.5,2336
+2020-08-30,44073152,Male,39,Night,TRUE,Feet,Slip/trip,1,"$2,333 "
+2020-08-31,44074153,Female,21,Night,TRUE,Hands,Falling object,0,2321
+2020-09-05,44079154,Female,26,Day,TRUE,Eye,Vehicle,0,"$2,268 "
+2020-09-06,44080155,Male,51,Night,TRUE,Feet,Vehicle,1,"$2,245 "
+2020-09-07,44081156,Male,39,Day,TRUE,Feet,Lifting,1,"$2,237 "
+2020-09-11,44085157,Male,21,Night,TRUE,Feet,Burn,0,2184
+2020-09-13,44087158,Male,51,Night,TRUE,Back,Burn,1,2170
+2020-09-14,44088159,Male,39,Night,TRUE,Hands,Crush & Pinch,0,"$2,124 "
+2020-09-16,44090160,Female,39,Day,TRUE,Trunk,Falling object,0,"$2,120 "
+2020-09-22,44096161,Male,26,Night,TRUE,Hands,Cut,0,"$2,063 "
+2020-09-23,44097162,Male,21,Night,TRUE,Arms,Equipment,0,"$2,022 "
+2020-09-25,44099163,Male,39,Night,TRUE,Hands,Slip/trip,3,"$2,015 "
+2020-09-27,44101164,Male,51,Night,TRUE,Hands,Fall,0,"$2,007 "
+2020-09-30,44104165,Male,39,Night,TRUE,Eye,Vehicle,5,"$1,993 "
+2020-10-04,44108166,Male,39,Day,TRUE,Back,Lifting,0,"$1,951 "
+2020-10-09,44113167,Male,51,Day,TRUE,Neck,Crush & Pinch,0,"$1,947 "
+2020-10-11,44115168,Male,39,Night,TRUE,Head,Burn,4.5,"$1,935 "
+2020-10-12,44116169,Male,21,Day,TRUE,Neck,Crush & Pinch,2.5,"$1,922 "
+2020-10-12,44116170,Male,51,Night,TRUE,Eye,Equipment,5,1919
+2020-10-13,44117171,Male,26,Day,TRUE,Back,Vehicle,2,"$1,902 "
+2020-10-13,44117172,Male,39,Night,TRUE,Hands,Fall,0,"$1,890 "
+2020-10-14,44118173,Male,26,Night,TRUE,Multiple,Burn,0,"$1,884 "
+2020-10-16,44120174,Male,39,Day,TRUE,Back,Burn,0,"$1,872 "
+2020-10-16,44120175,Male,52,Night,TRUE,Abdomen,Crush & Pinch,0,1848
+2020-10-17,44121176,Male,26,Night,TRUE,Arms,Burn,0,"$1,835 "
+2020-10-19,44123177,Female,27,Day,TRUE,N/A,Burn,0,1824
+2020-10-22,44126178,Male,27,Night,TRUE,Feet,Lifting,0,"$1,819 "
+2020-10-24,44128179,Male,52,Day,TRUE,Legs,Slip/trip,3.5,"$1,806 "
+2020-10-26,44130180,Male,27,Night,TRUE,Feet,Equipment,4,"$1,793 "
+2020-10-27,44131181,Male,27,Night,TRUE,Abdomen,Burn,1.5,1777
+2020-10-27,44131182,Male,40,Night,TRUE,Neck,Vehicle,3.5,1769
+2020-10-30,44134183,Male,40,Night,TRUE,N/A,Fall,2.5,"$1,731 "
+2020-11-07,44142184,Male,40,Day,TRUE,N/A,Cut,0,"$1,710 "
+2020-11-11,44146185,Male,22,Night,TRUE,Eye,Cut,1.5,"$1,698 "
+2020-11-12,44147186,Male,22,Night,TRUE,Feet,Slip/trip,0,1696
+2020-11-15,44150187,Male,40,Night,TRUE,Back,Crush & Pinch,4.5,"$1,694 "
+2020-11-16,44151188,Male,52,Day,TRUE,Arms,Vehicle,0,"$1,690 "
+2020-11-18,44153189,Male,52,Day,TRUE,Multiple,Cut,0,1643
+2020-11-19,44154190,Male,40,Night,TRUE,Feet,Slip/trip,0,"$1,636 "
+2020-11-20,44155191,Female,40,Night,TRUE,Feet,Equipment,2,"$1,635 "
+2020-11-22,44157192,Female,27,Day,TRUE,Eye,Crush & Pinch,4,1594
+2020-11-22,44157193,Male,40,Day,TRUE,Feet,Crush & Pinch,1.5,"$1,592 "
+2020-11-24,44159194,Female,22,Night,TRUE,Neck,Cut,0,"$1,585 "
+2020-11-25,44160195,Female,27,Day,TRUE,Trunk,Equipment,5,"$1,505 "
+2020-11-29,44164196,Male,40,Day,TRUE,Multiple,Falling object,0,"$1,493 "
+2020-11-30,44165197,Male,27,Day,TRUE,Back,Cut,2.5,"$1,486 "
+2020-11-30,44165198,Male,27,Day,TRUE,Feet,Burn,1,1449
+2020-12-01,44166199,Male,27,Night,TRUE,Legs,Falling object,0,"$1,433 "
+2020-12-03,44168200,Male,52,Day,TRUE,Back,Falling object,0,"$1,430 "
+2020-12-04,44169201,Female,28,Night,TRUE,Legs,Equipment,3.5,1424
+2020-12-04,44169202,Male,28,Night,TRUE,Back,Cut,4,1392
+2020-12-04,44169203,Male,28,Night,TRUE,Neck,Lifting,0,"$1,335 "
+2020-12-06,44171204,Male,22,Night,TRUE,Head,Lifting,1,"$1,301 "
+2020-12-08,44173205,Male,52,Day,TRUE,Eye,Burn,0,1277
+2020-12-08,44173206,Male,22,Night,TRUE,Feet,Burn,1.5,"$1,248 "
+2020-12-09,44174207,Male,22,Night,TRUE,Hands,Equipment,1.5,"$1,241 "
+2020-12-10,44175208,Male,22,Day,TRUE,Neck,Fall,1.5,"$1,230 "
+2020-12-11,44176209,Male,22,Night,TRUE,N/A,Burn,0,"$1,222 "
+2020-12-12,44177210,Male,52,Night,TRUE,Trunk,Vehicle,3.5,"$1,213 "
+2020-12-16,44181211,Male,40,Night,TRUE,Arms,Fall,4,"$1,196 "
+2020-12-18,44183212,Male,41,Night,TRUE,Legs,Lifting,4,"$1,190 "
+2020-12-23,44188213,Male,28,Night,TRUE,Back,Cut,1.5,"$1,177 "
+2020-12-23,44188214,Male,22,Night,TRUE,Arms,Slip/trip,0,1174
+2020-12-24,44189215,Male,28,Night,TRUE,Neck,Crush & Pinch,1,"$1,173 "
+2020-12-25,44190216,Male,28,Night,TRUE,Feet,Equipment,0,"$1,168 "
+2020-12-25,44190217,Male,41,Night,TRUE,Abdomen,Crush & Pinch,3.5,"$1,155 "
+2020-12-27,44192218,Male,28,Day,TRUE,Eye,Vehicle,4.5,"$1,152 "
+2020-12-27,44192219,Male,28,Day,TRUE,Eye,Cut,0,"$1,136 "
+2020-12-30,44195220,Male,22,Day,TRUE,Hands,Falling object,0,"$1,121 "
+2020-12-30,44195221,Male,52,Night,TRUE,Multiple,Falling object,5,"$1,119 "
+2020-12-31,44196222,Male,29,Day,TRUE,Arms,Cut,0.5,"$1,084 "
+2021-01-03,44199223,Female,29,Night,TRUE,Feet,Cut,0,1045
+2021-01-03,44199224,Female,53,Night,TRUE,Arms,Cut,0,"$1,010 "
+2021-01-06,44202225,Male,41,Day,TRUE,Back,Burn,1.5,998
+2021-01-07,44203226,Male,41,Night,TRUE,N/A,Falling object,1.5,$995 
+2021-01-08,44204227,Male,41,Night,TRUE,Feet,Burn,0,$921 
+2021-01-08,44204228,Male,29,Night,TRUE,Hands,Cut,0.5,$920 
+2021-01-08,44204229,Male,53,Night,TRUE,Feet,Falling object,2.5,$903 
+2021-01-11,44207230,Male,29,Day,TRUE,Hands,Fall,0,$882 
+2021-01-13,44209231,Male,29,Night,TRUE,Multiple,Falling object,4.5,855
+2021-01-16,44212232,Male,29,Day,TRUE,Abdomen,Slip/trip,0,$845 
+2021-01-19,44215233,Male,53,Day,TRUE,Trunk,Vehicle,2.5,$819 
+2021-01-23,44219234,Male,22,Night,TRUE,Head,Vehicle,2.5,$807 
+2021-01-25,44221235,Male,53,Day,TRUE,Legs,Burn,0,$804 
+2021-01-26,44222236,Male,41,Night,TRUE,Trunk,Falling object,0,804
+2021-01-27,44223237,Male,29,Night,TRUE,Arms,Burn,0.5,$786 
+2021-02-02,44229238,Female,53,Night,TRUE,Abdomen,Crush & Pinch,4.5,$738 
+2021-02-02,44229239,Male,53,Day,TRUE,Back,Lifting,4,736
+2021-02-03,44230240,Male,23,Day,TRUE,Eye,Falling object,0,$733 
+2021-02-07,44234241,Male,53,Night,TRUE,Multiple,Lifting,0,719
+2021-02-11,44238242,Male,41,Night,TRUE,Abdomen,Burn,0,$718 
+2021-02-11,44238243,Male,41,Night,TRUE,Feet,Lifting,2.5,$709 
+2021-02-13,44240244,Male,53,Night,TRUE,Hands,Vehicle,0,706
+2021-02-14,44241245,Male,23,Night,TRUE,Arms,Burn,0.5,$674 
+2021-02-15,44242246,Male,53,Night,TRUE,Back,Fall,2,$674 
+2021-02-18,44245247,Male,23,Night,TRUE,Feet,Lifting,0,$668 
+2021-02-18,44245248,Female,29,Night,TRUE,Neck,Burn,0,$653 
+2021-02-19,44246249,Male,23,Night,TRUE,Arms,Vehicle,0,$634 
+2021-02-21,44248250,Male,29,Night,TRUE,Eye,Burn,0,$628 
+2021-02-24,44251251,Male,42,Night,TRUE,Neck,Slip/trip,5,$603 
+2021-02-26,44253252,Male,23,Day,TRUE,Hands,Fall,0,$588 
+2021-02-28,44255253,Male,23,Night,TRUE,Arms,Fall,4.5,585
+2021-03-01,44256254,Male,53,Day,TRUE,Feet,Cut,4,540
+2021-03-02,44257255,Male,23,Night,TRUE,Feet,Falling object,0,$534 
+2021-03-04,44259256,Male,29,Night,TRUE,Multiple,Vehicle,0,534
+2021-03-05,44260257,Male,30,Night,TRUE,Feet,Cut,0,$532 
+2021-03-05,44260258,Male,29,Night,TRUE,Hands,Lifting,0,$522 
+2021-03-11,44266259,Female,42,Night,TRUE,Arms,Crush & Pinch,0,$503 
+2021-03-12,44267260,Male,23,Night,TRUE,Back,Slip/trip,0,$501 
+2021-03-14,44269261,Male,30,Day,TRUE,Abdomen,Vehicle,3,$498 
+2021-03-14,44269262,Male,30,Night,TRUE,Trunk,Lifting,0,$493 
+2021-03-15,44270263,Male,23,Night,TRUE,Head,Cut,0,$491 
+2021-03-17,44272264,Female,30,Day,TRUE,Back,Lifting,0,$470 
+2021-03-17,44272265,Male,42,Night,TRUE,Neck,Burn,0,$466 
+2021-03-18,44273266,Male,30,Night,TRUE,Abdomen,Vehicle,0,461
+2021-03-19,44274267,Female,30,Night,TRUE,Neck,Cut,0,$457 
+2021-03-22,44277268,Male,53,Night,TRUE,Hands,Crush & Pinch,0,$457 
+2021-03-23,44278269,Male,53,Night,TRUE,Head,Cut,0,$456 
+2021-03-31,44286270,Male,42,Day,TRUE,Arms,Falling object,0,$453 
+2021-03-31,44286271,Female,23,Night,TRUE,Arms,Falling object,4.5,$450 
+2021-04-01,44287272,Male,30,Night,TRUE,Eye,Fall,0,$449 
+2021-04-01,44287273,Female,30,Day,TRUE,Feet,Vehicle,0,$442 
+2021-04-02,44288274,Female,30,Night,TRUE,Arms,Burn,0,$434 
+2021-04-06,44292275,Male,53,Day,TRUE,Arms,Fall,0,$430 
+2021-04-08,44294276,Male,30,Night,TRUE,Multiple,Burn,0,$423 
+2021-04-09,44295277,Male,53,Day,TRUE,Head,Equipment,0,$422 
+2021-04-11,44297278,Male,42,Night,TRUE,Multiple,Crush & Pinch,0,$420 
+2021-04-13,44299279,Male,53,Night,TRUE,Back,Lifting,0,$414 
+2021-04-14,44300280,Male,53,Night,TRUE,Eye,Fall,0,$395 
+2021-04-15,44301281,Female,30,Night,TRUE,N/A,Slip/trip,0,$394 
+2021-04-16,44302282,Male,53,Night,TRUE,Multiple,Equipment,0,385
+2021-04-17,44303283,Male,42,Night,TRUE,Eye,Fall,0,$383 
+2021-04-20,44306284,Male,30,Day,TRUE,Multiple,Slip/trip,0,$382 
+2021-04-20,44306285,Male,53,Day,TRUE,Head,Fall,0,$373 
+2021-04-21,44307286,Male,42,Day,TRUE,Trunk,Slip/trip,0,$369 
+2021-04-24,44310287,Male,23,Day,TRUE,Legs,Fall,0,$366 
+2021-04-25,44311288,Male,53,Night,TRUE,Head,Slip/trip,0,$361 
+2021-05-01,44317289,Male,42,Night,TRUE,Trunk,Fall,0,$360 
+2021-05-04,44320290,Male,31,Day,TRUE,N/A,Crush & Pinch,0,$359 
+2021-05-06,44322291,Male,31,Night,TRUE,N/A,Cut,0,$351 
+2021-05-07,44323292,Male,31,Day,TRUE,Head,Fall,0,350
+2021-05-08,44324293,Male,42,Day,TRUE,Back,Slip/trip,0,$342 
+2021-05-08,44324294,Male,23,Night,TRUE,Back,Cut,0,$341 
+2021-05-10,44326295,Male,31,Night,TRUE,Head,Equipment,0,341
+2021-05-12,44328296,Male,31,Night,TRUE,Multiple,Crush & Pinch,0,$338 
+2021-05-19,44335297,Male,31,Day,TRUE,Multiple,Lifting,0,330
+2021-05-19,44335298,Female,23,Night,TRUE,Multiple,Lifting,0,326
+2021-05-20,44336299,Male,31,Night,TRUE,Hands,Vehicle,0,$324 
+2021-05-20,44336300,Male,42,Night,TRUE,Multiple,Burn,0,$321 
+2021-05-24,44340301,Female,53,Night,TRUE,Head,Falling object,0,314
+2021-05-26,44342302,Male,23,Night,TRUE,Arms,Equipment,0,$308 
+2021-05-26,44342303,Male,53,Night,TRUE,Feet,Fall,0,$307 
+2021-05-29,44345304,Male,31,Night,TRUE,Trunk,Falling object,0,$305 
+2021-05-30,44346305,Male,42,Night,TRUE,Multiple,Equipment,0,$302 
+2021-06-01,44348306,Male,31,Day,TRUE,N/A,Fall,0,$297 
+2021-06-01,44348307,Male,53,Day,TRUE,Legs,Fall,0,$282 
+2021-06-02,44349308,Male,31,Night,TRUE,Legs,Vehicle,0,$281 
+2021-06-02,44349309,Male,31,Night,TRUE,Multiple,Slip/trip,0,$278 
+2021-06-03,44350310,Female,23,Night,TRUE,Eye,Slip/trip,0,277
+2021-06-03,44350311,Male,53,Night,TRUE,Legs,Burn,0,$265 
+2021-06-06,44353312,Male,31,Day,TRUE,Legs,Burn,0,$260 
+2021-06-07,44354313,Male,53,Day,TRUE,Eye,Fall,0,259
+2021-06-08,44355314,Male,23,Night,TRUE,N/A,Equipment,0,$250 
+2021-06-08,44355315,Male,53,Night,TRUE,Legs,Lifting,0,$249 
+2021-06-12,44359316,Male,23,Night,TRUE,Head,Fall,0,$247 
+2021-06-12,44359317,Male,43,Night,TRUE,Back,Burn,0,$244 
+2021-06-13,44360318,Male,53,Night,TRUE,Trunk,Slip/trip,0,$242 
+2021-06-15,44362319,Male,23,Night,TRUE,Hands,Cut,0,$238 
+2021-06-17,44364320,Male,23,Night,TRUE,Eye,Fall,0,$236 
+2021-06-18,44365321,Male,31,Day,TRUE,Multiple,Crush & Pinch,0,$229 
+2021-06-18,44365322,Male,43,Night,TRUE,Feet,Burn,0,$224 
+2021-06-18,44365323,Male,31,Night,TRUE,Feet,Equipment,0,$217 
+2021-06-19,44366324,Male,53,Night,TRUE,Legs,Vehicle,0,$209 
+2021-06-21,44368325,Male,43,Day,TRUE,Abdomen,Slip/trip,0,$207 
+2021-06-23,44370326,Male,23,Day,TRUE,Legs,Equipment,0,$206 
+2021-06-25,44372327,Male,53,Day,TRUE,Multiple,Crush & Pinch,0,$189 
+2021-06-26,44373328,Male,23,Night,TRUE,Eye,Fall,0,189
+2021-06-27,44374329,Male,32,Day,TRUE,Feet,Crush & Pinch,0,$180 
+2021-06-28,44375330,Male,43,Day,TRUE,Head,Cut,0,174
+2021-06-29,44376331,Male,32,Day,TRUE,Back,Burn,0,$173 
+2021-07-04,44381332,Male,32,Night,TRUE,Back,Fall,0,162
+2021-07-06,44383333,Male,23,Day,TRUE,Back,Burn,0,$159 
+2021-07-07,44384334,Male,43,Day,TRUE,Eye,Burn,0,$155 
+2021-07-08,44385335,Male,32,Night,TRUE,Hands,Falling object,0,$152 
+2021-07-08,44385336,Male,53,Night,TRUE,N/A,Equipment,0,$152 
+2021-07-11,44388337,Male,32,Night,TRUE,Neck,Equipment,0,$143 
+2021-07-12,44389338,Male,23,Night,TRUE,Abdomen,Equipment,0,$140 
+2021-07-13,44390339,Male,43,Night,TRUE,Feet,Vehicle,0,$133 
+2021-07-19,44396340,Male,53,Night,TRUE,N/A,Crush & Pinch,0,$132 
+2021-07-20,44397341,Male,23,Night,TRUE,Neck,Lifting,0,$129 
+2021-07-21,44398342,Male,53,Night,TRUE,Feet,Cut,0,$125 
+2021-07-22,44399343,Male,32,Night,TRUE,Head,Vehicle,0,$119 
+2021-07-25,44402344,Male,32,Night,TRUE,Eye,Slip/trip,0,$118 
+2021-07-25,44402345,Male,32,Night,TRUE,Head,Crush & Pinch,0,$118 
+2021-07-31,44408346,Male,43,Night,TRUE,Eye,Burn,0,$115 
+2021-08-02,44410347,Male,32,Night,TRUE,Eye,Equipment,0,115
+2021-08-03,44411348,Male,32,Night,TRUE,Back,Cut,0,114
+2021-08-07,44415349,Male,32,Night,TRUE,Eye,Fall,0,$107 
+2021-08-07,44415350,Male,43,Night,TRUE,Arms,Cut,0,$95 
+2021-08-10,44418351,Male,53,Night,TRUE,Hands,Lifting,0,$88 
+2021-08-12,44420352,Male,23,Night,TRUE,Trunk,Falling object,0,$88 
+2021-08-13,44421353,Male,24,Night,TRUE,Legs,Equipment,0,$84 
+2021-08-16,44424354,Male,44,Night,TRUE,Feet,Slip/trip,0,83
+2021-08-18,44426355,Male,44,Night,TRUE,Eye,Burn,0,$77 
+2021-08-19,44427356,Female,24,Night,TRUE,Head,Crush & Pinch,0,77
+2021-08-21,44429357,Male,32,Night,TRUE,Legs,Lifting,0,$76 
+2021-08-22,44430358,Male,53,Night,TRUE,Feet,Falling object,0,$67 
+2021-08-22,44430359,Male,32,Night,TRUE,Trunk,Equipment,0,67
+2021-08-22,44430360,Male,44,Night,TRUE,Legs,Fall,0,$66 
+2021-08-23,44431361,Male,32,Day,TRUE,Legs,Fall,0,$65 
+2021-08-24,44432362,Female,44,Night,TRUE,Trunk,Fall,0,$60 
+2021-08-29,44437363,Male,32,Night,TRUE,N/A,Cut,0,60
+2021-08-29,44437364,Male,44,Night,TRUE,N/A,Falling object,0,$59 
+2021-09-01,44440365,Male,24,Day,TRUE,Feet,Falling object,0,59
+2021-09-03,44442366,Male,32,Day,TRUE,Arms,Burn,0,$58 
+2021-09-03,44442367,Male,32,Night,TRUE,Abdomen,Lifting,0,$57 
+2021-09-06,44445368,Female,53,Day,TRUE,Abdomen,Equipment,0,$53 
+2021-09-10,44449369,Male,44,Day,TRUE,N/A,Fall,0,41
+2021-09-11,44450370,Male,44,Night,TRUE,Trunk,Equipment,0,$40 
+2021-09-15,44454371,Male,24,Night,TRUE,Abdomen,Cut,0,$37 
+2021-09-17,44456372,Male,53,Night,TRUE,Back,Slip/trip,0,$37 
+2021-09-18,44457373,Male,24,Day,TRUE,Trunk,Lifting,0,$36 
+2021-09-19,44458374,Male,24,Day,TRUE,N/A,Fall,0,$29 
+2021-09-20,44459375,Male,32,Night,TRUE,Neck,Falling object,0,$8 
+2021-09-24,44463376,Male,53,Day,TRUE,N/A,Fall,0,5
+2021-09-28,44467377,Female,53,Night,TRUE,Multiple,Burn,0,$0 
+2021-09-29,44468378,Male,44,Night,TRUE,Eye,Cut,0,$0 
+2021-10-01,44470379,Male,32,Night,TRUE,Legs,Falling object,0,$0 
+2021-10-01,44470380,Female,32,Night,TRUE,Legs,Lifting,0,$0 
+2021-10-05,44474381,Male,33,Day,TRUE,Arms,Burn,0,$0 
+2021-10-10,44479382,Male,24,Night,TRUE,Head,Lifting,0,$0 
+2021-10-13,44482383,Male,24,Night,TRUE,Abdomen,Equipment,0,$0 
+2021-10-14,44483384,Male,33,Day,TRUE,Back,Slip/trip,0,$0 
+2021-10-14,44483385,Male,44,Night,TRUE,Eye,Burn,0,$0 
+2021-10-15,44484386,Female,53,Night,TRUE,Eye,Burn,0,$0 
+2021-10-16,44485387,Male,45,Day,TRUE,Arms,Cut,0,$0 
+2021-10-17,44486388,Male,45,Night,TRUE,Eye,Lifting,0,$0 
+2021-10-19,44488389,Male,33,Day,TRUE,Multiple,Falling object,0,$0 
+2021-10-19,44488390,Male,45,Night,TRUE,Legs,Slip/trip,0,$0 
+2021-10-23,44492391,Male,24,Day,TRUE,Arms,Fall,0,$0 
+2021-10-23,44492392,Male,33,Day,TRUE,Neck,Burn,0,$0 
+2021-10-26,44495393,Male,45,Day,TRUE,Legs,Equipment,0,$0 
+2021-10-28,44497394,Male,45,Day,TRUE,Eye,Equipment,0,$0 
+2021-10-30,44499395,Male,53,Day,TRUE,Trunk,Slip/trip,0,$0 
+2021-11-02,44502396,Male,53,Day,TRUE,Trunk,Lifting,0,$0 
+2021-11-06,44506397,Male,53,Night,TRUE,Abdomen,Slip/trip,0,$0 
+2021-11-09,44509398,Male,45,Night,TRUE,Feet,Fall,0,$0 
+2021-11-10,44510399,Male,53,Day,TRUE,N/A,Cut,0,$0 
+2021-11-12,44512400,Male,24,Night,TRUE,Back,Falling object,0,$0 
+2021-11-14,44514401,Female,45,Night,TRUE,Neck,Lifting,0,$0 
+2021-11-15,44515402,Male,33,Night,TRUE,Legs,Lifting,0,$0 
+2021-11-15,44515403,Male,53,Night,TRUE,Head,Crush & Pinch,0,$0 
+2021-11-16,44516404,Male,33,Day,TRUE,Feet,Slip/trip,0,$0 
+2021-11-17,44517405,Female,45,Night,TRUE,Legs,Equipment,0,$0 
+2021-11-21,44521406,Male,33,Day,TRUE,Legs,Crush & Pinch,0,$0 
+2021-11-22,44522407,Male,33,Night,TRUE,Trunk,Crush & Pinch,0,$0 
+2021-11-23,44523408,Male,46,Night,TRUE,Abdomen,Crush & Pinch,0,$0 
+2021-11-24,44524409,Male,24,Night,TRUE,Head,Lifting,0,$0 
+2021-11-26,44526410,Male,24,Night,TRUE,Back,Equipment,0,$0 
+2021-11-28,44528411,Female,53,Day,TRUE,Trunk,Lifting,0,$0 
+2021-11-30,44530412,Male,24,Night,TRUE,N/A,Falling object,0,$0 
+2021-12-03,44533413,Female,33,Day,TRUE,Neck,Crush & Pinch,0,$0 
+2021-12-04,44534414,Male,53,Night,TRUE,Trunk,Slip/trip,0,$0 
+2021-12-06,44536415,Male,33,Night,TRUE,Legs,Vehicle,0,$0 
+2021-12-06,44536416,Male,33,Night,TRUE,Trunk,Cut,0,$0 
+2021-12-08,44538417,Male,46,Night,TRUE,Hands,Cut,0,$0 
+2021-12-17,44547418,Male,46,Day,TRUE,Legs,Slip/trip,0,$0 
+2021-12-20,44550419,Male,53,Night,TRUE,Legs,Cut,0,$0 
+2021-12-22,44552420,Male,33,Day,TRUE,Head,Fall,0,$0 
+2021-12-23,44553421,Male,46,Day,TRUE,N/A,Cut,0,$0 
+2021-12-28,44558422,Male,46,Night,TRUE,N/A,Slip/trip,0,$0 
+2021-12-29,44559423,Male,53,Night,TRUE,Legs,Vehicle,0,$0 
+2022-01-02,44563424,Male,53,Night,TRUE,Eye,Falling object,0,$0 
+2022-01-03,44564425,Male,46,Night,TRUE,Arms,Cut,0,$0 
+2022-01-04,44565426,Male,34,Night,TRUE,Neck,Slip/trip,0,$0 
+2022-01-04,44565427,Male,34,Night,TRUE,Multiple,Vehicle,0,$0 
+2022-01-08,44569428,Male,34,Day,TRUE,Abdomen,Cut,0,$0 
+2022-01-09,44570429,Female,46,Night,TRUE,Head,Equipment,0,$0 
+2022-01-12,44573430,Male,53,Day,TRUE,Hands,Fall,0,$0 
+2022-01-14,44575431,Male,46,Night,TRUE,Multiple,Fall,0,$0 
+2022-01-15,44576432,Male,53,Day,TRUE,Multiple,Falling object,0,$0 
+2022-01-16,44577433,Male,53,Day,TRUE,Hands,Fall,0,$0 
+2022-01-16,44577434,Male,53,Night,TRUE,Legs,Fall,0,$0 
+2022-01-19,44580435,Male,34,Night,TRUE,Back,Slip/trip,0,$0 
+2022-01-19,44580436,Male,46,Night,TRUE,Trunk,Falling object,0,$0 
+2022-01-20,44581437,Male,24,Night,TRUE,Trunk,Lifting,0,$0 
+2022-01-21,44582438,Male,24,Night,TRUE,Back,Vehicle,0,$0 
+2022-01-22,44583439,Male,46,Night,TRUE,Feet,Fall,0,$0 
+2022-01-27,44588440,Male,34,Night,TRUE,Trunk,Fall,0,$0 
+2022-01-28,44589441,Male,24,Day,TRUE,Neck,Slip/trip,0,$0 
+2022-01-28,44589442,Male,24,Night,TRUE,Multiple,Vehicle,0,$0 
+2022-01-30,44591443,Female,47,Day,TRUE,Trunk,Lifting,0,$0 
+2022-02-02,44594444,Male,34,Night,TRUE,Back,Slip/trip,0,$0 
+2022-02-02,44594445,Male,47,Night,TRUE,Arms,Lifting,0,$0 
+2022-02-06,44598446,Male,53,Night,TRUE,Abdomen,Equipment,0,$0 
+2022-02-07,44599447,Male,18,Day,TRUE,Neck,Fall,0,$0 
+2022-02-08,44600448,Male,47,Night,TRUE,Neck,Falling object,0,$0 
+2022-02-08,44600449,Male,53,Night,TRUE,Eye,Crush & Pinch,0,$0 
+2022-02-09,44601450,Male,54,Night,TRUE,Eye,Burn,0,$0 
+2022-02-09,44601451,Male,54,Night,TRUE,Arms,Falling object,0,$0 
+2022-02-10,44602452,Male,34,Night,TRUE,Trunk,Falling object,0,$0 
+2022-02-11,44603453,Male,34,Night,TRUE,Arms,Cut,0,$0 
+2022-02-14,44606454,Male,47,Night,TRUE,Multiple,Vehicle,0,$0 
+2022-02-14,44606455,Male,54,Night,TRUE,Abdomen,Falling object,0,$0 
+2022-02-15,44607456,Male,47,Night,TRUE,Head,Vehicle,0,$0 
+2022-02-22,44614457,Male,34,Night,TRUE,Head,Burn,0,$0 
+2022-02-23,44615458,Female,54,Night,TRUE,Feet,Fall,0,$0 
+2022-02-24,44616459,Male,47,Night,TRUE,Neck,Vehicle,0,$0 
+2022-02-24,44616460,Male,47,Night,TRUE,Trunk,Cut,0,$0 
+2022-02-26,44618461,Female,34,Night,TRUE,Feet,Lifting,0,$0 
+2022-02-27,44619462,Male,47,Night,TRUE,Arms,Falling object,0,$0 
+2022-02-28,44620463,Male,47,Night,TRUE,Trunk,Vehicle,0,$0 
+2022-03-03,44623464,Male,47,Night,TRUE,Arms,Lifting,0,$0 
+2022-03-12,44632465,Male,18,Night,TRUE,Abdomen,Burn,0,$0 
+2022-03-12,44632466,Male,54,Night,TRUE,Arms,Lifting,0,$0 
+2022-03-15,44635467,Male,34,Day,TRUE,Abdomen,Burn,0,$0 
+2022-03-17,44637468,Male,54,Night,TRUE,Feet,Falling object,0,$0 
+2022-03-22,44642469,Male,18,Night,TRUE,N/A,Cut,0,$0 
+2022-03-22,44642470,Male,34,Night,TRUE,Trunk,Falling object,0,$0 
+2022-03-25,44645471,Male,34,Night,TRUE,Head,Slip/trip,0,$0 
+2022-03-26,44646472,Male,54,Day,TRUE,Legs,Fall,0,$0 
+2022-03-28,44648473,Male,54,Night,TRUE,Arms,Vehicle,0,$0 
+2022-04-01,44652474,Male,47,Day,TRUE,Head,Burn,0,$0 
+2022-04-01,44652475,Male,18,Night,TRUE,Multiple,Lifting,0,$0 
+2022-04-03,44654476,Male,34,Night,TRUE,Multiple,Falling object,0,$0 
+2022-04-04,44655477,Male,18,Night,TRUE,Feet,Falling object,0,$0 
+2022-04-06,44657478,Male,54,Night,TRUE,Eye,Equipment,0,$0 
+2022-04-07,44658479,Male,48,Day,TRUE,Abdomen,Falling object,0,$0 
+2022-04-07,44658480,Male,48,Night,TRUE,Multiple,Vehicle,0,$0 
+2022-04-08,44659481,Male,19,Night,TRUE,Hands,Lifting,0,$0 
+2022-04-08,44659482,Male,20,Night,TRUE,Legs,Cut,0,$0 
+2022-04-12,44663483,Male,34,Night,TRUE,Multiple,Fall,0,$0 
+2022-04-17,44668484,Male,34,Day,TRUE,Head,Cut,0,$0 
+2022-04-20,44671485,Male,48,Night,TRUE,Abdomen,Cut,0,$0 
+2022-04-24,44675486,Male,20,Day,TRUE,Back,Fall,0,$0 
+2022-04-24,44675487,Male,34,Night,TRUE,Hands,Cut,0,$0 
+2022-04-27,44678488,Male,34,Day,TRUE,Feet,Lifting,0,$0 
+2022-04-27,44678489,Male,54,Night,TRUE,Arms,Fall,0,$0 
+2022-04-29,44680490,Male,54,Night,TRUE,Legs,Lifting,0,$0 
+2022-05-03,44684491,Female,48,Night,TRUE,N/A,Cut,0,$0 
+2022-05-06,44687492,Male,20,Day,TRUE,Head,Fall,0,0
+2022-05-07,44688493,Male,55,Night,TRUE,Hands,Slip/trip,0,0
+2022-05-08,44689494,Male,34,Day,TRUE,Hands,Equipment,0,0
+2022-05-11,44692495,Male,55,Night,TRUE,N/A,Burn,0,0
+2022-05-16,44697496,Male,34,Night,TRUE,Neck,Slip/trip,0,0
+2022-05-17,44698497,Male,49,Night,TRUE,Legs,Vehicle,0,0
+2022-05-19,44700498,Male,55,Day,TRUE,Multiple,Falling object,0,0
+2022-05-23,44704499,Male,21,Day,TRUE,Head,Crush & Pinch,0,0
+2022-05-26,44707500,Male,49,Night,TRUE,Hands,Vehicle,0,0
+2022-05-27,44708501,Male,21,Night,TRUE,Back,Burn,0,0
+2022-05-30,44711502,Male,22,Night,TRUE,Hands,Vehicle,0,0
+2022-05-31,44712503,Male,34,Night,TRUE,Legs,Equipment,0,0
+2022-06-03,44715504,Male,22,Day,TRUE,Arms,Lifting,0,0
+2022-06-03,44715505,Male,55,Night,TRUE,Arms,Vehicle,0,0
+2022-06-03,44715506,Male,55,Night,TRUE,Eye,Slip/trip,0,0
+2022-06-05,44717507,Male,31,Night,TRUE,Head,Slip/trip,0,0
+2022-06-07,44719508,Male,31,Day,TRUE,Head,Burn,0,0
+2022-06-10,44722509,Female,55,Day,TRUE,Hands,Vehicle,0,0
+2022-06-25,44737510,Male,60,Day,TRUE,Feet,Cut,0,0
+2022-06-26,44738511,Female,31,Night,TRUE,Back,Lifting,0,0
+2022-06-27,44739512,Male,31,Night,TRUE,Back,Slip/trip,0,0
+2022-06-28,44740513,Male,22,Night,TRUE,Abdomen,Crush & Pinch,0,0
+2022-06-28,44740514,Male,31,Night,TRUE,Hands,Lifting,0,0
+2022-06-28,44740515,Male,60,Night,TRUE,Hands,Cut,0,0
+>>>>>>> 6ef5a829a9a2792696b3f3478e0be750c4ce2284
