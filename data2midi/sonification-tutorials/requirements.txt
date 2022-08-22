@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+pandas
+matplotlib
+audiolazy
+midiutil
+=======
+pandas
+matplotlib
+audiolazy
+midiutil
+>>>>>>> 6ef5a829a9a2792696b3f3478e0be750c4ce2284
+pygame
